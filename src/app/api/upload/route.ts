@@ -32,11 +32,18 @@ export async function POST(request: Request) {
       
     const imageUrl = publicUrlData.publicUrl;
 
-    // 2. Tạo bản ghi trong homework_tasks
+    // 2. Tạo bản ghi trong homework_tasks với short_id
+    // Tạo chuỗi 5 ký tự ngẫu nhiên (chữ và số)
+    const shortId = Math.random().toString(36).substring(2, 7).toUpperCase();
+    
     const { data: taskData, error: dbError } = await supabase
       .from('homework_tasks')
       .insert([
-        { original_image_url: imageUrl, status: 'pending' }
+        { 
+          original_image_url: imageUrl, 
+          status: 'pending',
+          short_id: shortId
+        }
       ])
       .select()
       .single();
@@ -88,6 +95,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ 
       success: true, 
       task_id: taskData.task_id,
+      short_id: taskData.short_id,
       image_url: imageUrl
     });
 

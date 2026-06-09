@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { BookOpen, FlaskConical, Atom, TestTubes, Search } from "lucide-react";
+import { BookOpen, FlaskConical, Atom, TestTubes, Search, UploadCloud } from "lucide-react";
 
 export default function Home() {
   const courses = [
@@ -58,6 +58,33 @@ export default function Home() {
               </div>
             </Link>
           ))}
+        </section>
+
+        {/* Feature: Hỏi Bài AI */}
+        <section className="mb-10">
+          <Link href="/upload" className="group flex flex-col sm:flex-row items-center p-8 lg:p-12 rounded-3xl bg-gradient-to-br from-emerald-900 to-teal-900 overflow-hidden relative shadow-xl hover:shadow-2xl transition-all hover:-translate-y-1">
+            <div className="absolute top-0 right-0 -mt-20 -mr-16 text-white opacity-5 group-hover:rotate-12 transition-transform duration-700">
+              <UploadCloud size={350} />
+            </div>
+            
+            <div className="flex-shrink-0 bg-white/10 p-5 rounded-2xl backdrop-blur-md mb-6 sm:mb-0 sm:mr-8 border border-white/20">
+              <UploadCloud size={56} className="text-emerald-200" />
+            </div>
+            
+            <div className="flex-grow z-10 text-center sm:text-left">
+              <div className="inline-block px-3 py-1 bg-emerald-500/40 text-emerald-100 text-xs font-bold rounded-full uppercase tracking-wider mb-3 backdrop-blur-sm border border-emerald-400/30">
+                New Feature
+              </div>
+              <h2 className="text-3xl md:text-4xl font-bold text-white mb-2">Hỏi Bài AI</h2>
+              <p className="text-emerald-200/90 mb-0 max-w-xl text-lg">
+                Upload ảnh bài tập hóa học bất kỳ, AI sẽ tự động giải đáp chi tiết. Tích hợp lưu trữ lịch sử bằng ID siêu xịn xò.
+              </p>
+            </div>
+            
+            <div className="mt-6 sm:mt-0 hidden md:flex items-center justify-center px-6 py-4 bg-white/10 rounded-full text-white backdrop-blur-md group-hover:bg-white group-hover:text-emerald-900 font-bold ml-4 border border-white/20 transition-colors z-10">
+              Tải lên ngay →
+            </div>
+          </Link>
         </section>
 
         {/* Feature: Kho Bài Tập */}

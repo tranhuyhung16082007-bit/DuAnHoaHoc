@@ -1,6 +1,7 @@
 -- 1. TẠO BẢNG homework_tasks
 CREATE TABLE IF NOT EXISTS public.homework_tasks (
     task_id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
+    short_id VARCHAR(10) UNIQUE,
     created_at TIMESTAMP WITH TIME ZONE DEFAULT timezone('utc'::text, now()) NOT NULL,
     original_image_url TEXT NOT NULL,
     extracted_prompt TEXT,
