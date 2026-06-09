@@ -21,6 +21,8 @@ export default function AdminDashboard() {
   const [tasks, setTasks] = useState<Task[]>([]);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState<'pending' | 'pending_review' | 'published'>('pending_review');
+  const [requeueTaskId, setRequeueTaskId] = useState<string | null>(null);
+  const [feedbackText, setFeedbackText] = useState('');
 
   const fetchTasks = async () => {
     setLoading(true);
@@ -41,15 +43,21 @@ export default function AdminDashboard() {
     fetchTasks();
   }, []);
 
-  const handleAction = async (taskId: string, action: 'approve' | 'reject') => {
+  const handleAction = async (taskId: string, action: 'approve' | 'reject' | 'requeue') => {
     try {
+      const payload: any = { taskId, action };
+      if (action === 'requeue') {
+        payload.feedback = feedbackText;
+      }
+
       const res = await fetch('/api/admin/review', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ taskId, action }),
+        body: JSON.stringify(payload),
       });
       if (res.ok) {
-        // Refresh
+        setRequeueTaskId(null);
+        setFeedbackText('');
         fetchTasks();
       }
     } catch (error) {
@@ -154,19 +162,54 @@ export default function AdminDashboard() {
                         </div>
 
                         {task.status === 'pending_review' && (
-                          <div className="flex space-x-3 pt-4">
-                            <button
-                              onClick={() => handleAction(task.task_id, 'approve')}
-                              className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded-xl flex items-center justify-center transition-colors"
-                            >
-                              <CheckCircle className="w-5 h-5 mr-2" /> Duyệt & Đăng
-                            </button>
-                            <button
-                              onClick={() => handleAction(task.task_id, 'reject')}
-                              className="flex-1 bg-red-100 hover:bg-red-200 text-red-700 dark:bg-red-900/30 dark:hover:bg-red-900/50 dark:text-red-400 font-semibold py-3 rounded-xl flex items-center justify-center transition-colors"
-                            >
-                              <XCircle className="w-5 h-5 mr-2" /> Từ chối
-                            </button>
+                          <div className="pt-4 border-t border-zinc-200 dark:border-zinc-800">
+                            {requeueTaskId === task.task_id ? (
+                              <div className="space-y-3 bg-yellow-50 dark:bg-yellow-900/10 p-4 rounded-xl border border-yellow-200 dark:border-yellow-900/30">
+                                <label className="block text-sm font-semibold text-yellow-800 dark:text-yellow-500">Lý do giải sai (Ghi chú cho AI):</label>
+                                <textarea
+                                  className="w-full p-3 rounded-lg border border-yellow-300 dark:border-yellow-700 bg-white dark:bg-zinc-900 text-sm focus:ring-2 focus:ring-yellow-500 outline-none"
+                                  rows={3}
+                                  placeholder="Ví dụ: Thiếu phương trình bảo toàn khối lượng..."
+                                  value={feedbackText}
+                                  onChange={(e) => setFeedbackText(e.target.value)}
+                                ></textarea>
+                                <div className="flex space-x-2">
+                                  <button
+                                    onClick={() => handleAction(task.task_id, 'requeue')}
+                                    className="px-4 py-2 bg-yellow-500 hover:bg-yellow-600 text-white font-semibold rounded-lg text-sm transition-colors"
+                                  >
+                                    Xác nhận Báo Lỗi & Bắt Giải Lại
+                                  </button>
+                                  <button
+                                    onClick={() => setRequeueTaskId(null)}
+                                    className="px-4 py-2 bg-zinc-200 hover:bg-zinc-300 dark:bg-zinc-800 dark:hover:bg-zinc-700 text-zinc-700 dark:text-zinc-300 font-semibold rounded-lg text-sm transition-colors"
+                                  >
+                                    Hủy
+                                  </button>
+                                </div>
+                              </div>
+                            ) : (
+                              <div className="flex space-x-3">
+                                <button
+                                  onClick={() => handleAction(task.task_id, 'approve')}
+                                  className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded-xl flex items-center justify-center transition-colors"
+                                >
+                                  <CheckCircle className="w-5 h-5 mr-2" /> Duyệt & Đăng
+                                </button>
+                                <button
+                                  onClick={() => setRequeueTaskId(task.task_id)}
+                                  className="flex-1 bg-yellow-100 hover:bg-yellow-200 text-yellow-700 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 dark:text-yellow-500 font-semibold py-3 rounded-xl flex items-center justify-center transition-colors"
+                                >
+                                  <XCircle className="w-5 h-5 mr-2" /> Báo Lỗi (Giải lại)
+                                </button>
+                                <button
+                                  onClick={() => handleAction(task.task_id, 'reject')}
+                                  className="flex-1 bg-red-100 hover:bg-red-200 text-red-700 dark:bg-red-900/30 dark:hover:bg-red-900/50 dark:text-red-400 font-semibold py-3 rounded-xl flex items-center justify-center transition-colors"
+                                >
+                                  <XCircle className="w-5 h-5 mr-2" /> Từ chối
+                                </button>
+                              </div>
+                            )}
                           </div>
                         )}
                       </div>

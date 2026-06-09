@@ -4,17 +4,24 @@ import { supabaseAdmin } from '@/lib/supabase';
 export async function POST(request: Request) {
   try {
     const body = await request.json();
-    const { taskId, action } = body; // action: 'approve' or 'reject'
+    const { taskId, action, feedback } = body; // action: 'approve' | 'reject' | 'requeue'
 
     if (!taskId || !action) {
       return NextResponse.json({ error: 'Missing parameters' }, { status: 400 });
     }
 
-    const newStatus = action === 'approve' ? 'published' : 'rejected';
+    let newStatus = 'rejected';
+    if (action === 'approve') newStatus = 'published';
+    if (action === 'requeue') newStatus = 'pending';
+
+    const updatePayload: any = { status: newStatus };
+    if (action === 'requeue' && feedback) {
+      updatePayload.ai_checker_note = feedback;
+    }
 
     const { data: taskData, error: updateError } = await supabaseAdmin
       .from('homework_tasks')
-      .update({ status: newStatus })
+      .update(updatePayload)
       .eq('task_id', taskId)
       .select()
       .single();

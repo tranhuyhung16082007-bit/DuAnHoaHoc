@@ -1,7 +1,5 @@
 import { NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
-import { processHomeworkPipeline } from '@/lib/gemini';
-import { sendReviewMessage } from '@/lib/telegram';
 
 export async function POST(request: Request) {
   try {
@@ -51,30 +49,6 @@ export async function POST(request: Request) {
     if (dbError) {
       console.error('Lỗi lưu DB:', dbError);
       return NextResponse.json({ error: 'Failed to save task' }, { status: 500 });
-    }
-
-    // 3. Xử lý AI ngầm và bắn Telegram (Bỏ async ngầm vì Vercel sẽ kill process)
-    try {
-      // Đọc file thành base64 cho Gemini
-      const buffer = await file.arrayBuffer();
-      const base64Data = Buffer.from(buffer).toString('base64');
-      const mimeType = file.type || 'image/jpeg';
-      
-      // Chạy qua 3 trạm AI
-      const aiResult = await processHomeworkPipeline(base64Data, mimeType);
-
-      // Update DB với kết quả giải
-      await supabase
-        .from('homework_tasks')
-        .update({
-          extracted_prompt: aiResult.rawText,
-          ai_solution_markdown: aiResult.solvedMarkdown,
-          ai_checker_note: aiResult.checkerNote
-        })
-        .eq('task_id', taskData.task_id);
-
-    } catch (pipelineError) {
-      console.error('Lỗi chạy dây chuyền AI:', pipelineError);
     }
 
     return NextResponse.json({ 
