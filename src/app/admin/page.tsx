@@ -2,6 +2,10 @@
 
 import { useState, useEffect } from 'react';
 import { Loader2, CheckCircle, XCircle, Clock } from 'lucide-react';
+import ReactMarkdown from 'react-markdown';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+import remarkGfm from 'remark-gfm';
 
 type Task = {
   task_id: string;
@@ -136,10 +140,17 @@ export default function AdminDashboard() {
                           </div>
                         )}
                         
-                        <div className="bg-zinc-50 dark:bg-zinc-950 p-4 rounded-xl border border-zinc-200 dark:border-zinc-800 h-64 overflow-y-auto">
-                          <pre className="text-xs text-zinc-700 dark:text-zinc-300 whitespace-pre-wrap font-mono">
-                            {task.ai_solution_markdown || 'Chưa có lời giải'}
-                          </pre>
+                        <div className="bg-white dark:bg-zinc-950 p-6 rounded-xl border border-zinc-200 dark:border-zinc-800 h-[500px] overflow-y-auto prose prose-zinc dark:prose-invert max-w-none text-sm [&_.katex]:text-blue-700 dark:[&_.katex]:text-blue-300">
+                          {task.ai_solution_markdown ? (
+                            <ReactMarkdown
+                              remarkPlugins={[remarkMath, remarkGfm]}
+                              rehypePlugins={[rehypeKatex]}
+                            >
+                              {task.ai_solution_markdown}
+                            </ReactMarkdown>
+                          ) : (
+                            <p className="text-zinc-500 italic">Chưa có lời giải</p>
+                          )}
                         </div>
 
                         {task.status === 'pending_review' && (
