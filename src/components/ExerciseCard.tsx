@@ -81,7 +81,7 @@ export function ExerciseCard({ exercise, index }: ExerciseCardProps) {
               <span className={`flex-shrink-0 w-7 h-7 rounded-lg flex items-center justify-center text-xs font-bold transition-all ${showResult && isCorrect ? "bg-emerald-500 text-white" : showResult && isSelected && !isCorrect ? "bg-red-500 text-white" : isSelected ? "bg-blue-500 text-white" : "bg-zinc-200 text-zinc-600 dark:bg-zinc-700 dark:text-zinc-300"}`}>
                 {label}
               </span>
-              <span className="text-sm pt-0.5 [&_.katex]:text-inherit" dangerouslySetInnerHTML={{ __html: renderedChoicesTN[label] }} />
+              <span className="text-sm pt-0.5 [&_.katex]:text-inherit" dangerouslySetInnerHTML={{ __html: renderedChoicesTN[label] || "" }} />
             </button>
           );
         })}
@@ -105,7 +105,7 @@ export function ExerciseCard({ exercise, index }: ExerciseCardProps) {
             <div key={key} className={`flex flex-col sm:flex-row gap-3 p-3.5 rounded-xl border transition-all ${hasAnswered ? isCorrect ? "border-emerald-300 bg-emerald-50/50 dark:border-emerald-800 dark:bg-emerald-900/20" : "border-red-300 bg-red-50/50 dark:border-red-800 dark:bg-red-900/20" : "border-zinc-200 bg-zinc-50/50 dark:border-zinc-800 dark:bg-zinc-800/30"}`}>
               <div className="flex-1 text-[15px] flex items-start gap-3">
                 <span className="font-bold text-violet-500 dark:text-violet-400 mt-0.5">{key}.</span>
-                <span dangerouslySetInnerHTML={{ __html: content }} />
+                <span dangerouslySetInnerHTML={{ __html: content || "" }} />
               </div>
               <div className="flex gap-2 self-start sm:self-center shrink-0 ml-7 sm:ml-0">
                 <button 
