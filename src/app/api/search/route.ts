@@ -9,9 +9,32 @@ export async function GET(request: Request) {
     return NextResponse.json([]);
   }
 
-  // Chuyển đổi query thành dạng phù hợp cho Full Text Search
+  const trimmedQuery = query.trim();
+
+  // 1. Kiểm tra xem query có giống mã ID Hỏi Bài (5 ký tự) không
+  if (trimmedQuery.length === 5 && /^[A-Z0-9]+$/i.test(trimmedQuery)) {
+    const { data: taskData, error: taskError } = await supabase
+      .from('homework_tasks')
+      .select('*')
+      .eq('short_id', trimmedQuery.toUpperCase())
+      .maybeSingle(); // Dùng maybeSingle để không văng lỗi nếu không tìm thấy
+      
+    if (taskData) {
+      // Map về định dạng Exercise
+      const mappedExercise = {
+        id: `ai-${taskData.short_id}`,
+        type: 'TL',
+        tags: ['Từ Kho Hỏi Bài AI', taskData.status === 'pending' ? 'Đang giải' : 'Đã có lời giải'],
+        de_bai: taskData.extracted_prompt || '*Hệ thống đang trích xuất đề bài từ ảnh của bạn...*',
+        loi_giai: taskData.ai_solution_markdown || '*AI đang suy nghĩ và giải bài. Vui lòng quay lại kiểm tra sau 1-2 phút nhé!*'
+      };
+      return NextResponse.json([mappedExercise]);
+    }
+  }
+
+  // 2. Chuyển đổi query thành dạng phù hợp cho Full Text Search
   // Ví dụ: "đốt cháy este" -> "đốt & cháy & este"
-  const formattedQuery = query
+  const formattedQuery = trimmedQuery
     .trim()
     .split(/\s+/)
     .map(word => `${word}:*`) // Thêm :* để search theo dạng prefix
