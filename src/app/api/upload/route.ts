@@ -53,44 +53,29 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'Failed to save task' }, { status: 500 });
     }
 
-    // 3. Xử lý AI ngầm và bắn Telegram
-    // Chạy bất đồng bộ không block response để user không phải đợi lâu
-    (async () => {
-      try {
-        // Đọc file thành base64 cho Gemini
-        const buffer = await file.arrayBuffer();
-        const base64Data = Buffer.from(buffer).toString('base64');
-        const mimeType = file.type || 'image/jpeg';
-        
-        // Chạy qua 3 trạm AI
-        const aiResult = await processHomeworkPipeline(base64Data, mimeType);
+    // 3. Xử lý AI ngầm và bắn Telegram (Bỏ async ngầm vì Vercel sẽ kill process)
+    try {
+      // Đọc file thành base64 cho Gemini
+      const buffer = await file.arrayBuffer();
+      const base64Data = Buffer.from(buffer).toString('base64');
+      const mimeType = file.type || 'image/jpeg';
+      
+      // Chạy qua 3 trạm AI
+      const aiResult = await processHomeworkPipeline(base64Data, mimeType);
 
-        // Update DB với kết quả giải
-        await supabase
-          .from('homework_tasks')
-          .update({
-            extracted_prompt: aiResult.rawText,
-            ai_solution_markdown: aiResult.solvedMarkdown,
-            ai_checker_note: aiResult.checkerNote
-          })
-          .eq('task_id', taskData.task_id);
+      // Update DB với kết quả giải
+      await supabase
+        .from('homework_tasks')
+        .update({
+          extracted_prompt: aiResult.rawText,
+          ai_solution_markdown: aiResult.solvedMarkdown,
+          ai_checker_note: aiResult.checkerNote
+        })
+        .eq('task_id', taskData.task_id);
 
-        // Tạo đường link xem trước dựa trên host của request hiện tại
-        const protocol = request.headers.get('x-forwarded-proto') || (request.headers.get('host')?.includes('localhost') ? 'http' : 'https');
-        const host = request.headers.get('host');
-        const previewUrl = `${protocol}://${host}/preview/${taskData.task_id}`;
-
-        // Gửi Telegram cho Admin duyệt kèm theo link xem trước
-        await sendReviewMessage(
-          taskData.task_id, 
-          aiResult.checkerNote, 
-          previewUrl
-        );
-
-      } catch (pipelineError) {
-        console.error('Lỗi chạy dây chuyền AI:', pipelineError);
-      }
-    })();
+    } catch (pipelineError) {
+      console.error('Lỗi chạy dây chuyền AI:', pipelineError);
+    }
 
     return NextResponse.json({ 
       success: true, 
