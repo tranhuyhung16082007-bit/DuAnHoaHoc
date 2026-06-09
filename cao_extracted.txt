@@ -1,0 +1,1402 @@
+
+--- Page 1 ---
+ 1 PHÂN LOẠI BÀI TẬP HÓA HỌC THEO TỪNG DẠNG  
+                - Dạng 1: Kim loại, oxit kim loại, bazo, muối tác dụng với các axit không có tính oxi hóa  
+                - Dạng 2: Kim loại, oxit kim loại, bazo, muối tác dụng với các axit  có tính oxi hóa mạnh  
+                - Dạng 3: Kim loại tác dụng với dung dịch muối  
+                - Dạng 4: Hợp chất lưỡng tính  
+                - Dạng 5: Bài tập về điện phân  
+                - Dạng 6: Bài tập về phản ứng của SO 2, CO 2 với dung dịch kiềm  
+                - Dạng 7:  Bài tập về phản ứng của H 2, C, CO, Al với oxit kim loại  
+                - Dạng 8: Bài tập xác định công thức hóa học  
+                - Dạng 9: Bài tập về hiệu suất  
+ 
+I- DẠNG 1  
+BÀI TẬP: KIM LOẠI, OXIT KIM LOẠI, BAZƠ, MUỐI …TÁC DỤNG VỚI AXIT KHÔNG CÓ 
+TÍNH OXI HÓA  ( HCl, H 2SO 4 loãng )  
+ 
+1. Phương pháp giải chung :  
+- Cách 1: Cách giải thông thường: sử dụng phương pháp đại số, thiết lập mối quan hệ giữa dữ kiện bài 
+toán với ẩn số, sau đó giải phương trình hoặc hệ phương trình  
+- Cách 2: Cách giải nhanh: Sử dụng  các định luật như: Bảo toàn điện tích, bảo toàn khối lượng, bảo toàn 
+nguyên tố ( Kết hợp với pp đại số để giải)  
+* Chú ý : Thông thường một bài toán phải phối hợp từ 2 phương pháp giải trở lên, chứ không đơn thuần 
+là áp dụng 1 phương pháp giải  
+Ví dụ 1: Hòa  tan hoàn toàn 1,93 gam hỗn hợp 2 kim loại Fe và Al vào dd HCl dư, sau phản ứng thu được 
+m gam muối và 1,456 lít khí H 2 ở đktc. Giá trị của m là:  
+A. 6,545 gam                            B. 5,46 gam                          C. 4,565 gam                         D. 2,456 gam  
+Giải:  
+Cách 1 :  nH 2= 1,456/22,4= 0,065 mol  
+Các PTHH: 2Al  + 6HCl→ 2AlCl 3 + 3H 2   (1) 
+Mol:  x                        x             1,5x  
+Fe + 2HCl→ FeCl 2 + H 2           (2) 
+Mol:   y                     y          y  
+Theo đầu bài ta có: 27x + 5 6y = 1,93 (I) và 1,5x + y = 0,065 (II). Giải hệ (I) và (II) ta được:  
+x =0,03, y= 0,02 → m= 0,03.133,5 + 0,02. 127= 6,545 gam . Vậy đáp án A đúng  
+Cách 2 : Ta luôn có nHCl=2nH 2 = 2.0,065=0,13 mol. Vậy theo định luật bảo toàn khối lượng ta có:  
+1,93 + 0,13.36,5 = m + 0,065.2 → m= 6,545 gam→ Vậy đáp án A đúng  
+* Như vậy cách giải 2 ngắn gọn hơn và nhanh hơn rất nhiều cách 1, tuy nhiên muốn giải theo cách 2 
+chúng ta cần chú ý một số vấn đề sau:  
+- Trong các pư của kim loại, oxit… với axit thì : nHCl= 2nH 2 hoặc nHCl =  2nH 2O 
+Còn: nH 2SO 4= nH 2=nH 2O 
+nOH- = 2nH 2 ( trong phản ứng của kim loại với H 2O) 
+- Khi cho axit HCl tác dụng với muối cacbonat ( CO 32-) cần chú ý:  
++ Khi cho từ từ HCl vào CO 32- thì tứ tự phản ứng là:  
+
+--- Page 2 ---
+ 2                        CO 32-   + H+ → HCO 3- sau đó khi HC l dư thì:  
+                      HCO 3-  + H+ → CO 2  + H 2O 
++ Khi cho từ từ CO 32- hoặc HCO 3- vào dd HCl thì: xảy ra đồng thời cả 2 phản ứng  
+CO 32-   + 2H+ → H 2O + CO 2 
+HCO 3-  + H+ → CO 2  + H 2O 
+ 
+2. Một số bài tập tham khảo : 
+Bài 1 . Hoà tan hoàn toàn 2,81g hỗn hợp  gồm Fe 2O3,  MgO, ZnO trong 500ml dd H 2SO 4 0,1M(vừa đủ).Sau 
+phản ứng ,cô cạn dung dịch thu được muối khan có khối lượng là:  
+A. 6.81g              B. 4,81g             C.3,81g                     D.5,81g  
+Bài 2. Hoà tan hoàn toàn 3,22g hỗn hợp X gồm  Fe, Mg Zn bằng một lượng vừa đủ H 2SO 4 loãng  thấy 
+thoát 1,344 lít H 2 ở đktc và dung dịch chứa m gam muối. Giá trị của m là:  
+A. 10,27g                        B.8.98                    C.7,25g               D. 9,52g  
+Bài 3.  Hòa tan hết 6,3 gam hỗn hợp gồm Mg và Al trong vừa đủ 150 ml dung dịch gồm HCl 1M và 
+H2SO 4 1,5M thu được dung dịch X. Cô cạn dung dịch X thì thu được bao nhiêu gam muối khan?  
+A. 30,225 g                       B. 33,225g                        C. 35,25g                    D. 37,25g  
+Bài 4. Hoà tan  17,5 gam hợp kim Zn – Fe –Al  vào dung dịch HCl  thu được Vlít H 2 đktc và dung dịch A  
+Cô cạn A thu được 31,7 gam hỗn hợp muối khan . Giá trị V là ?  
+A. 1,12 lít                                       B. 3,36 lít                             C. 4,48 lít              D. Kết quả khác  
+Bài 5. Oxi hoá 13,6 gam hỗn hợp 2 kim loại thu được m gam hỗn hợp 2 oxit . Để hoà tan hoàn toàn m 
+gam oxit này cần 500 ml dd H 2SO 4 1 M . Tính m .  
+A. 18,4 g                                      B. 21,6 g                                  C . 23,45 g                D. Kết quả khác  
+Bài 6 . Hoà tan 10g hỗn hợp bột Fe và Fe 2O3 bằng một lượng dd HCl vừa đủ, thu được 1,12 lít hiđro (đktc) 
+và dd A cho NaOH dư vào thu được kết tủa,  nung kết tủa trong không khí đến khối lượng không đổi được 
+m gam chấ t rắn thì giá trị của m là:  
+A. 12g                                    B. 11,2g                             C. 12,2g                         D. 16g  
+Bài 7. Đốt cháy hết 2,86 gam hỗn hợp kim loại gồm Al, Fe, Cu được 4,14 gam hỗn hợp 3 oxit . Để hoà tan 
+hết hỗ n hợp oxit này, phải dùng đúng 0,4 lít dung dịch HCl và thu được dung dịch X. Cô cạn dung dich X 
+thì khối lượng muối khan là bao nhêu ? .  
+A. 9,45 gam          B.7,49 gam           C. 8,54 gam            D. 6,45 gam  
+Bài 8. Cho 24,12gam hỗn hợp X gồm CuO , Fe 2O3 , Al 2O3 tác dụng vừa đủ với 350ml dd HNO 3 4M rồi 
+đun đến khan dung dịch sau phản ứng thì thu được m gam hỗn hợp muối khan. Tính m .  
+A. 77,92 gam         B.86,8 gam    C. 76,34 gam               D. 99,72 gam  
+Bài 9. Hòa tan 9,14 gam hợp kim Cu, Mg, Al bằng một lượng vừa đủ dung dịch HCl thu được 7,84 lít khí 
+X (đktc) và 2,54 gam chất rắn Y và dung dịch Z. Lọc bỏ chất rắn Y, cô cạn cẩn thận dung dịch Z thu được 
+lượng muối khan là  
+A. 31,45 gam.  B. 33,99 gam            C. 19,025 gam.                 D. 56,3 gam  
+Bài 10. Cho 40 gam hỗn hợp vàng, bạc, đồng, sắt, kẽm tác dụng với O 2 dư nung nóng thu được 46,4 
+gam hỗn hợp X. Cho hỗn hợp X này tác dụng vừa đủ dung dịch HCl cần V lít dung dịch HCl 2M.Tính 
+V. 
+A. 400 ml                         B. 200ml                        C. 800 ml                         D. Giá trị khác.  
+Bài 11. Hòa tan m gam hỗn hợp gồm Cu và Fe 3O4 trong dung dịch HCl dư sau phản ứng còn lại 8,32 gam 
+
+--- Page 3 ---
+ 3 chất rắn không tan và dung dịch X. Cô cạn dung dịch X thu được 61,92 gam chất rắn khan. Giá trị của m  
+A. 31,04 gam                B. 40,10 gam        C. 43,84 gam   D. 46,16 gam  
+Bài 12.  Cho m gam hỗn hợp Cu và Fe 2O3 trong dung dịch H 2SO 4 loãng dư thu được dung dịch X và  
+0,328 m gam chất rắn không tan. Dung dịch X làm mất màu vừa hết 48ml dung dịch KMnO 4 1M. G iá trị 
+của m là  
+A. 40 gam                B. 43,2 gam    C. 56 gam                D. 48 gam  
+Bài 13. Hòa tan hoàn toàn 14,6 gam hỗn hợp X gồm Al và Sn bằng dung dịch HCl (dư), thu được 5,6 lít 
+H2(ở đktc). Thể tích khí O 2 (ở đktc) cần để phản ứng hoàn toàn với 1 4,6 gam hỗn hợp X là  
+A. 3,92 lít.  B. 1,68 lít  C. 2,80 lít  D. 4,48 lít  
+Bài 14. Hỗn hợp X gồm 2 kim loại A và B thuộc phân nhóm chính nhóm II, ở 2 chu kỳ liên tiếp. Cho 1,76 
+gam X tan hoàn toàn trong dung dịch HCl dư thu được 1,344 lít khí H 2 (đktc). Cô cạn dung dịch sau phản 
+ứng, khối lượng muối khan thu được là  
+A. 6,02 gam.  B. 3,98 gam.                  C. 5,68 gam.                  D. 5,99 gam.  
+Bài 15. Cho 3,68 gam hỗn hợp gồm Al và Zn tác dụng với một lượng vừa đủ dung dịch H 2SO 4 10%  thu 
+được 2,24 lít khí  H2 (ở đktc). Khối lượng dung dịch thu được sau phản ứng là  
+A. 101,68 gam.            B. 88,20 gam.                          C. 101,48 gam.                    D. 97,80 gam.  
+Bài 16. Cho hỗn hợp gồm Fe và FeS tác dụng với dung dịch HCl dư thu được 2,24 lít h ỗn hợp khí ở điều 
+kiện tiêu chuẩn. Hỗn hợp khí này có tỉ khối so với hiđro là 9. Thành phần % theo số mol của hỗn hợp Fe 
+và FeS ban đầu lần lượt là  
+A. 40% và 60%.                  B. 50% và 50%.                      C. 35% và 65%.            D. 45% và 55%.  
+Bài 17.  Cho 3,87 gam Mg và Al vào 200ml dung dịch X gồm HCl 1M và H 2SO 4 0,5M thu được dung dịch 
+B và 4,368 lít H 2 ở đktc. Phần trăm khối lượng của Mg và Al trong hỗn hợp lần lượt là  
+A. 72,09% và 27,91%.      B. 62,79% và 37,21%.     C. 27,91% và 72,09%.        D. 37,21% và 62,79%.  
+Bài 18 . Cho 40 gam hỗn hợp vàng, bạc, đồng, sắt, kẽm tác dụng với O 2 dư nung nóng thu được m gam 
+hỗn hợp X. Cho hỗn hợp X này tác dụng vừa đủ dung dịch HCl cần 400 ml dung dịch HCl 2M (không có 
+H2 bay ra). Tính khối lượng m.  
+A. 46, 4 gam                                   B. 44,6 gam                  C. 52,8 gam               D. 58,2 gam  
+Bài 19. Cho 20 gam hỗn hợp một số  muối cacbonat tác dụng hết với dung dịch HCl dư thu được 1,344 lít 
+khí CO 2 (đktc) và dung dịch A. Cô cạn dung dịch A thu được m gam muối khan. Giá trị của m là  
+A. 10,33 gam   B. 20,66 gam  C. 25,32 gam  D. 30 gam  
+Bài 20. Cho 23,8 gam hỗn hợp hai  muối cacbonat của hai kim loại A, B tác dụng hết với dung dịch HCl 
+dư thu được V lít khí CO 2 (đktc) và dung dịch A. Dẫn toàn b ộ CO 2 vào dd nước vôi trong dư thì thu được 
+20 gam kết tủa. Cô cạn dung dịch A thu được m gam muối khan. Giá trị của m là  
+A. 26 gam   B. 30 gam  C. 23 gam  D. 27 gam  
+Bài 21. Cho m gam hỗn hợp hai  muối cacbonat của hai kim loại A, B tác dụng hết với dung dịc h HCl dư 
+thu được 4,48 lít khí CO 2 (đktc) và dung dịch A. Cô cạn dung dịch A thu được 26 gam muối khan. Giá trị 
+của m là  
+A. 23,8 gam   B. 25,2 gam      C. 23,8 gam     D. 27,4 gam  
+Bài 22. Hoà tan hoàn toàn 3,34 gam  hỗn hợp hai muối cacbonat trung hòa của ha i kim loại hóa trị II và III 
+bằng dung dịch HCl dư thì thu được dung dịch A và 0,896 lít bay ra (đktc). Khối lượng muối có trong 
+dung dịch A là  
+
+--- Page 4 ---
+ 4 A. 31,8 gam            B. 3,78 gam           C. 4,15 gam    D. 4,23 gam  
+Bài 23. Cho 11,5g hỗn hợp gồm ACO 3, B 2CO 3, R2CO 3 tan hết trong dung dịch HCl thu được 2,24 lít 
+CO 2(đktc). Khối lượng muối clorua tạo thành là?  
+A. 16,2g                                     B. 12,6g                            C. 13,2g                                 D. 12,3g  
+Bài 24. Hòa tan hoàn toàn  10 gam hỗn hợp hai muối XCO 3 và Y 2(CO 3)3 bằng dung dịch HCl ta thu được 
+dung dịch A và 0,672 lít khí bay ra ở đktc. Cô cạn dung dịch A thì thu được m gam muối khan. Giá trị của 
+m là 
+A. 1,033 gam.  B. 10,33 gam.                      C. 9,265 gam.               D. 92,65 gam.  
+Bài 25. Hoà tan hoàn toàn 19,2 hỗn hợp gồm CaCO 3 và MgCO 3 trong dung dịch HCl dư thấy thoát ra V 
+(lít) CO 2 (đktc) và dung dịch có chứa 21,4 gam hỗn hợp muối. Xác định V.  
+A. V = 3,36 lít    C. V = 3,92 lít    C. V = 4,48 lít    D.V = 5,6 lít  
+Bài26. Hòa tan hết hỗn hợp hai kim loại kiềm thổ vào nước, có 1,344 lít H 2 (đktc) thoát ra và thu được 
+dung dịch X. Thể tích dung dịch HCl 1M cần để trung hòa vừa đủ dung dịch X là:  
+A .12 ml                                 B. 120 ml                             C. 240 ml                            D. Tất cả đều sai  
+Bài 27. Hòa tan 2 kim loại Ba và Na vào nước được dd(A) và có 13,44 lít H 2 bay ra (đktc). Thể tích dung 
+dịch HCl 1M cần  để trung hòa hoàn toàn dd A là:  
+A.1,2lít    B.2,4lít   C.4,8lít   D.0,5lít.  
+Bài 28. Khối lượng hỗn hợp A gồm K 2O và BaO (tỉ lệ số mol 2 : 3) cần dùng để trung hòa hết 1,5 lít dung 
+dịch hỗn hợp B gồm HCl 0,005M và H 2SO 4 0,0025M  là  
+A. 0,0489 gam.  B. 0,9705 gam.                   C. 0,7783 gam.                D. 0,1604 gam.  
+Bài 29. Cho từ từ 100 ml dung dịch HCl 0,5 M vào 150 ml dung dịch Na 2CO 3 0,2 M thu được V lít khí 
+CO 2 ( đktc). Giá trị của V là:  
+A. 0,448                               B. 0,336                               C. 0,224                             D. 0,56  
+Bài 30. Cho từ từ 200 ml dung dịch HCl 0,2 M vào 100 ml dd X chứa Na 2CO 3 0,2 M và NaHCO 3 0,1 M 
+thu được V lít khí CO 2 ở đktc. Giá trị của V là:  
+A. 0,672                                   B. 0,336                              C. 0,224                              D. 0,4 48 
+Bài 31.  Hoà tan 28 gam hỗn hợp X gồm CuSO 4, MgSO 4, Na 2SO 4 vào nước được dung dịch A. Cho A tác 
+dụng vừa đủ với dung dịch BaCl 2 thấy tạo thành 46,6 gam kết tủa và dung dịch B. Cô cạn dung dịch B 
+được khối lượng muối khan là  
+A. 25 gam.  B. 33 gam.                       C. 23 gam.                         D. 21 gam.  
+Bài 32. Cốc A đựng 0,3 mol Na 2CO3 và 0,2 mol NaHCO 3. Cốc B đựng 0,4 mol HCl.Đổ rất từ từ cốc B 
+vào cốc A, số mol khí CO 2 thoát ra có giá trị nào?  
+A. 0,1                                   B. 0,3                                 C. 0,4                                   D. 0,5  
+Bài 33.  Cốc A đựng 0,3 mol Na 2CO3 và 0,2 mol NaHCO 3. Cốc B đựng 0,4 mol HCl. Đổ rất từ từ cốc A 
+vào cốc B, số mol khí CO 2 thoát ra có giá trị nào?  
+A. 0,2                                              B. 0,25                                   C. 0,4                                 D. 0,5  
+Bài 34. Hòa tan hoàn toàn 8,94 gam hỗn hợp gồm Na, K và Ba vào nước, thu được dung dịch X và 2,688 
+lít khí H 2 (đktc). Dung dịch Y gồm HCl và H 2SO 4, tỉ lệ t ương ứng là 4:1. Trung hòa dung dịch X bởi dung 
+dịch Y, tổng khối lượng các muối tạo ra là:  
+A. 12,78 gam                         B. 14,62 gam                       C. 18,46 gam                 D. 13,70 gam  
+ 
+
+--- Page 5 ---
+ 5  
+II- DẠNG 2  
+BÀI TẬP: KIM LOẠI , OXIT KIM LOẠI VÀ  MUỐI TÁC DỤNG VỚI CÁC DUNG DỊCH AXIT 
+CÓ TÍNH OXI HÓA MẠNH ( H 2SO 4 đặc, HNO 3) 
+ 
+1. Phương pháp giải chung : 
+Phương pháp chủ yếu là sử dụng định luật bảo toàn electron , kết hợp với các pp khác như bảo toàn khối 
+lượng, bảo toàn nguyên tố, bảo toàn điện tích  
+Khi làm dạng này cần chú ý một số vấn đề sau:  
++ Khi cho kim loại  tác dụng với các axit H 2SO 4 và HNO 3 thì: 
+- Tổng số mol H 2SO 4 phản ứng bằng = nSO 42- trong muối + n của sản phẩm khử( SO 2, S, H 2S) 
+Mà số mol SO 42- trong muối = tổng số mol e nhường chia 2= Tổng số mol e nhận chia 2.  
+- Tổng số mol HNO 3 phản ứng = nNO 3- trong muối + n của sản phẩm khử( NO 2, NO, N 2O, N 2,NH 3) 
+Lưu ý : nếu sản phẩm khử là N 2, N2O thì phải nhân thêm 2  
+Mà số mol NO 3- trong muối bằng tổng số mol e nhường = tổng số mol e nhận  
++ Tất cả các c hất khi tác dụng với 2 axit trên đều lên mức oxi hóa cao nhất  
++ Ion NO 3- trong môi trường axit có tính oxi hóa như HNO 3 loãng  
++ Khi phản ứng hóa học có HNO 3 đặc thì khí thoát ra thong thường là NO 2, HNO 3 loãng là NO. Tuy nhiên 
+với các kim loại mạnh như Mg,  Al, Zn thì khi tác dụng với HNO 3 loãng thì HNO 3 có thể bị khử thành 
+N2O, N 2 hoặc NH 3 ( trong dung dịch HNO 3 là NH 4NO 3) 
++ Đối với oxit sắt: nếu trong một hỗn hợp nFeO= nFe 2O3 thì coi hỗn hợp FeO, Fe 2O3 là Fe 3O4 
++ Nếu một bài toán có nhiều quá trình oxi hóa  khử chúng ta chỉ cần để ý đến số oxi hóa của nguyên tố đó 
+trước và sau phản ứng, sau đó dùng định luật bảo boàn e áp dụng chung cho cả bài toán  
+VD: ( Bài tập 1: Đề bài bên dưới)  
+Ta có thể tóm tắt bài tập này như sau:  
+Fe +O 2 → hỗn hợp X( có thể có: Fe, FeO , Fe 2O3 và Fe 3O4)    + HNO 3           Fe3+ 
+ 
+Như vậy: Ban đầu  từ: Feo → Fe3+ + 3e                        O 2  +            4e→ 2O2- và  N+5 + 3e  →  N+2 
+Mol: m/56          3m/56                   (3 -m)/32      (3 -m)/8                     0,075    0,025  
+Theo bảo toàn e: 3m/56 = (3 -m)/8 + 0,075. Giải phương trình này ta được m= 2,52 gam  
+Như vậy với bài toán dạng: Nung m gam bột Fe trong oxi ( hoặc để m gam bột Fe trong không khí) sau 
+một thời gian thu được a gam hh X( gồm Fe và các oxit). Cho X tác dụng với d ung dịch HNO 3 thu được 
+khí N xOy duy nhất ở đktc thì giữa:  m, a, x có mối quan hệ sau  
+ 
+ 
+ 
+ 
+ 
+ 
++ Khi Fe tác dụng với HNO 3, nếu sau phản ứng Fe còn dư thì Fe sẽ tác dụng với Fe(NO 3)3 tạo thành 
+Fe(NO 3)2 
++ Riêng với Fe2+
+ vẫn còn tính khử nên khi tác dụng với NO 3- trong H+ thì đều tạo ra Fe3+  
+3m
+56(a-m)
+8= + b.x.nNxOy hoặc 
+m= 5,6.b.x.nNxOy+ 0,7.a  
+Trong đó : b là số e nhận  
+ 
+ 
+
+--- Page 6 ---
+ 6 2. Một số bài tập tham khảo  
+Bài 1 .  Nung m gam bột sắt trong oxi, thu được 3 gam hh chất rắn X. Hòa tan hết hh X trong dd HNO 3 
+(dư), thoát ra 0,56 lít (ở đktc) NO (là sản phẩm khử duy nhất). Giá trị của m là (cho O = 16, Fe = 56)  
+A. 2,52.              B. 2,22.     C. 2,62.                D. 2,32.  
+Bài 2. Hoà tan hết m gam hỗn hợp gồm FeO, Fe 2O3 và Fe 3O4 bằng HNO 3 đặc, nóng thu được 4,48 lít khí 
+NO 2 (đktc). Cô cạn dung dịch sau phản ứng được 145,2 gam muối khan. Giá trị của m l à 
+A. 35,7 gam.                          B. 46,4 gam.                      C. 15,8 gam.                        D. 77,7 gam  
+Bài 3. Để khử hoàn toàn 3,04 gam hỗn hợp Y (gồm FeO, Fe 3O4, Fe 2O3) thì cần 0,05 mol H 2. Mặt khác hoà 
+tan hoàn toàn 3,04 gam hỗn hợp Y tro ng dung dịch H 2SO 4 đặc thì thu được thể tích khí SO 2 (sản phẩm 
+khử duy nhất) ở điều kiện tiêu chuẩn là  
+A. 224 ml.  B. 448 ml.                C. 336 ml.                          D. 112 ml.  
+Bài 4. Nung 8,4 gam Fe trong không khí  sau phản ứng thu được m gam chấ t rắn X gồm Fe, Fe 2O3, Fe 3O4, 
+FeO. Hòa tan hết m gam X vào dung dịch HNO 3 dư thu được 2,24 lít khí NO 2 (ở đktc) là sản phẩm khử 
+duy nhất. Giá trị của m là  
+A. 11,2 gam.                  B. 10,2 gam.              C. 7,2 gam.                             D. 6,9 g am 
+Bài 5.  Hòa tan hết 5,6 gam Fe bằng một lượng vừa đủ dung dịch HNO 3 đặc nóng thu được V lít NO 2 là 
+sản phẩm khử duy nhất (tại đktc). V nhận giá trị nhỏ nhất là  
+A. 1,12 lít.     B. 2,24 lít.                      C. 4,48 lít.                            D. 6,7 2 lít. 
+Bài 6. Hỗn hợp A gồm ba oxit sắt (FeO, Fe 3O4, Fe 2O3) có số mol bằng nhau. Hòa tan hết m gam hỗn hợp  
+A này bằng dung dịch HNO 3 thì thu được hỗn hợp K gồm hai khí NO 2 và NO có thể tích 1,12 lít (đktc) và 
+tỉ khối hỗn hợp K so với hiđro bằng 19,8. Trị s ố của m là:  
+A. 20,88 gam                       B.  46,4 gam           C. 23,2 gam                          D. 16,24 gam  
+Bài 7 .Cho 18,5 gam hỗn hợp Z gồm Fe, Fe 3O4 tác dụng với 200 ml dung dịch HNO 3 loãng đun nóng 
+và khuấy đều. Sau khi phản ứng xảy ra hoàn toà n thu được 2,24 lít khí NO duy nhất (đo ở điều kiện tiêu 
+chuẩn), dung dịch Z 1 và còn lại 1,46 gam kim loại.Khối lượng Fe 3O4 trong 18,5 gam hỗn hợp ban đầu 
+là: 
+A. 6,69                                B. 6,96                                C. 9,69                            D. 9,7  
+Bài 8.  Để m gam phoi bào sắt (A) ngoài không khí, sau một thời gian biến thành hỗn hợp (B) có khối 
+lượng 12 gam gồm Fe, FeO, Fe 3O4, Fe 2O3. Cho B tác dụng hoàn toàn với dung dịch HNO 3 thấy giải 
+phóng ra 2,24 lít khí NO duy nhất (đktc). Giá trị của m là bao nhiêu?  
+A. 11,8 gam.  B. 10,08 gam.          C. 9,8 gam.                D. 8,8 gam.  
+Bài 9. Cho m gam Fe tan hết trong 400 ml dung dịch FeCl 3 1M thu được dung dịch Y. Cô cạn dung dịch 
+Y thu được 71,72 gam chất rắn khan. Để hòa tan m gam F e cần tối thiểu bao nhiêu ml dung dịch HNO 3 
+1M (sản phẩm khử duy nhất là NO)  
+A. 540 ml           B. 480 ml                    C. 160ml                   D. 320 ml  
+Bài 10 . Cho 11,0 gam hỗn hợp X gồm Al và Fe vào dung dịch HNO 3 loãng dư, thu được dung dịch Y và  
+6,72 lít khí NO ở đktc (sản phẩm khử duy nhất). Cô cạn cẩn thận dung dịch Y thì lượng muối khan thu 
+được là  
+A. 33,4 gam.  B. 66,8 gam.                   C. 29,6 gam.                     D. 60,6 gam.  
+Bài 11 . Hòa tan hoàn toàn 12 gam h ỗn hợp Fe, Cu (t ỉ lệ mol 1:1) b ằng axit HNO 3, thu đư ợc V lít ( ở đktc) 
+hỗn hợp khí X (g ồm NO và NO2) và dung d ịch Y (ch ỉ chứa hai mu ối và axit dư). Tỉ khối của X đ ối với 
+H2 b ằng 19. Giá tr ị của V là  
+
+--- Page 7 ---
+ 7 A. 2,24.                                         B. 4,48.                               C. 5,60.                                D. 3,36.  
+Bài 12. Cho 11,36 gam h ỗn hợp gồm Fe, FeO, Fe 2O3 và Fe 3O4 phản ứng hết với dung d ịch HNO3 loãng 
+(dư), thu đư ợc 1,344 lít khí NO (s ản phẩm kh ử duy nh ất, ở đktc) và dung d ịch X. Cô c ạn dung d ịch X thu 
+được m gam mu ối khan. Giá tr ị của m là  
+A. 38,72.                       B. 35,50.                                    C. 49,09.                                    D. 34,36 . 
+Bài 13 . Hòa tan hết 22,064 gam hỗn hợp Al, Zn bằng dung dịch HNO 3 thu được 3,136 lít hỗn  hợp NO và 
+N2O (đktc) với số mol mỗi khí như nhau. Tính % khối lượng của Al trong hỗn hợp.  
+A. 5.14%.  B. 6,12%.                 C. 6,48%.                             D. 7,12%.  
+Bài 14. Hòa tan hỗn hợp X gồm Al và Fe vào dung dịch HNO 3 dư sau phản ứng hoàn toàn  thu được dung 
+dịch A và 4,44 gam hỗn hợp khí Y có thể tích 2,688 lít (ở đktc) gồm hai khí không màu, trong đó có một 
+khí tự hóa nâu ngoài không khí. Tổng số mol 2 kim loại trong hỗn hợp X là:  
+A. 0,32 mol.  B. 0,22 mol.              C. 0,45 mol.                       D. 0,12 mol.  
+Bài 15 .Cho hỗn hợp G ở dạng bột gồm Al, Fe, Cu. Hòa tan 23,4 gam G bằng một lượng dư dung dịch 
+H2SO4 đặc, nóng, thu được 0,675 mol khí SO 2. Cho 23,4 gam G vào bình A chứa dung dịch H 2SO4 
+loãng dư, sau khi phản ứng hoàn toàn, thu được 0,45 mol khí B . Khối lượng Al, Fe, Cu trong hỗn hợp G 
+lần lượt là:  
+A. 5,4 gam; 8,4 gam; 9,6 gam                          B. 9,6 gam; 5,4 gam; 8,4 gam  
+C. 8,4 gam; 9,6 gam; 5,4 gam                           D. 5,4 gam; 9,6 gam; 8,4 gam  
+Bài 16 . Hòa tan hết m  gam bột kim loại nhôm trong dung dịch HNO 3, thu được 13,44 lít (đktc) hỗn hợp ba 
+khí NO, N 2O và N 2. Tỉ lệ thể tích V NO : VN2O : VN2 =  3:2:1. Trị số của m là:  
+A.  32,4 gam                           B. 31,5 gam                            C. 40,5 gam                         D. 24,3 gam  
+Bài 17. Hoà tan hoàn toàn 12,8 gam hỗn hợp X gồm 3 kim loại Fe, Mg, Cu vào HNO 3 đặc nóng, dư thu được 
+dung dịch Y và 3,36 lít khí NO (đkc). Cô cạn dung dịch Y thu được m gam muối khan. Giá trị m là:  
+A.  22,1 gam       B. 19,7 gam          C. 50,0gam.   D. 40,7gam  
+Bài 18 . Hòa tan hoàn toàn 16,3 gam hỗn hợp X gồm Mg, Al và Fe trong dung dịch H 2SO 4 đặc nóng thu 
+được 0,55 mol SO 2. Cô cạn dung dịch sau phản ứng thì thu được muối khan có khối lượng là  
+A. 82,9 gam         B. 69,1 gam        C. 55,2 gam         D. 51,8 gam  
+Bài 19 . Cho 3,445 gam hỗn hợp X gồm Al, Zn, Cu tác dụng với dung dịch HNO 3 loãng dư, sau phản ứng 
+thu được 1,12 lít NO (đkc). Cô cạn dung dịch sau phản ứng thì thu được muối khan có khối lượng là  
+A. 12,745 gam            B. 11 ,745 gam      C. 10,745 gam   D. 9,574 gam  
+Bài 20 . Hòa tan hoàn toàn 12,42 gam Al bằng dung dịch HNO 3 loãng (dư), thu được dung dịch X và 1,344 
+lít (ở đktc) hỗn hợp khí Y gồm hai khí là N 2O và N 2. Tỉ khối của hỗn hợp khí Y so với khí H 2 là 18. Cô 
+cạn dung dị ch X, thu được m gam chất rắn khan. Giá trị của m là  
+A. 97,98.          B. 106,38.                  C. 38,34.                             D. 34,08.  
+Bài 21 .  Cho m gam Cu tan hoàn toàn vào 200 ml dung dịch HNO 3, phản ứng vừa đủ, giải phóng một hỗn 
+hợp 4,48 lít  khí NO và NO 2 có tỉ khối hơi với H 2 là 19. Tính C M của dung dịch HNO 3. 
+A.2 M.                                     B. 3M.                          C. 1,5M.                         D. 0,5M.  
+Bài 22 . Cho 2,16 gam Mg tác d ụng với dung d ịch HNO 3 (dư). Sau khi ph ản ứng xảy ra hoàn toànthu đư ợc 
+0,896 lít khí NO ( ở đktc) và dung d ịch X. Kh ối lượng mu ối khan thu đư ợc khi làm bay hơidung d ịch X là  
+A. 8,88 gam.                           B. 13,92 gam.                     C. 6,52 gam.                   D. 13,32 gam  
+Bài 23.  Hòa tan hoàn toàn 1,23 gam hỗn hợp X gồm Cu và Al vào dung dịch HNO 3 đặc, nóng thu được 
+1,344 lít khí NO 2 (sản phẩm khử duy nhất, ở đktc) và dung dịch Y. Sục từ từ khí NH 3 (dư) vào dung dịch 
+
+--- Page 8 ---
+ 8 Y, sau khi phản ứng xảy ra hoàn toàn thu được m gam kết tủa. Phầ n trăm về khối lượng của Cu trong hỗn 
+hợp X và giá trị của m lần lượt là  
+A. 21,95% và 2,25.                 B. 78,05% và 2,25.          C. 21,95% và 0,78.                D. 78,05% và 0,78 
+Bài 24. Hòa tan hết m gam bột kim loại nhôm trong dung dịch HNO 3, thu được 13,44 lít (đktc) hỗn hợp ba 
+khí NO, N 2O và N 2. Tỉ lệ thể tích V NO : VN2O : VN2 =  3:2:1. Trị số của m là:  
+A. 31,5 gam                          B. 32,5 gam                               B. 40,5 gam                         C. 24,3 gam  
+Bài 25 . Cho a gam h ỗn hợp E (Al, Mg, Fe ) tác dụng với dung dịch HNO 3 dư thu được hỗn hợp khí gồm 
+0,02 mol NO, 0,01 mol N 2O, 0,01 mol NO 2 và dung dịch X. Cô cạn dung dịch X thu được 11,12 gam 
+muối khan. a có giá trị là  
+A. 1,82.                                        B. 11, 2.                              C. 9,3.                     D. kết quả khác.  
+Bài 26 . Cho 61,2 gam hỗn hợp X gồm Cu và Fe 3O4 tác dụng với dung dịch HNO 3 loãng, đun nóng và 
+khuấy đều. Sau khi các phản ứng xảy ra hoàn toàn, thu được 3,36 lít khí NO (sản phẩm k hử duy nhất, ở 
+đktc), dung dịch Y và còn lại 2,4 gam kim loại. Cô cạn dung dịch Y, thu được m gam muối khan. Giá trị 
+của m là  
+A. 151,5.                   B. 137,1.                    C. 97,5.               D. 108,9.  
+Bài 27. Cho m gam hỗn hợp X gồm Fe và Cu  tác dụng với dung dịch HCl dư thu được dung dịch Y, 
+m1710  
+gam chất rắn không tan và 2,688 lít H 2 (đkc). Để hòa tan m gam hỗn hợp X cần tối thiểu bao nhiêu ml 
+dung dịch HNO 3 1M (biết rằng chỉ sinh ra sản phẩm khử duy nhất là NO)  
+A. 1200ml            B. 800ml                     C. 720ml                D.880ml  
+Bài 28 . Người ta thực hiện 2 thí nghiệm sau:  
+TN 1: Cho 38,4 gam Cu vào 2,4 lít dung dịch HNO 3 0,5M, sau phản ứng thu được V 1 lít NO (đkc)  
+TN 2: Cũng cho khối lượng đồng như trên vào 2,4 lí t dung dịch gồm HNO 3 0,5M và H 2SO 4 0,2M, sau phản 
+ứng thu được V 2 lít NO (đkc). Mối quan hệ giữa V 2 và V 1 là: 
+A. 2V 2=5V 1           B. 3V 2= 4V 1              C. V 2=2V 1        D. 3V 2=2V 1 
+Bài 29 . Cho 13,24 gam hỗn hợp X gồm Al, Cu, Mg tác dụng  với oxi dư thu được 20,12 gam hỗn hợp 
+3 oxít. Nếu cho 13,24 gam hỗn hợp X trên tác dụng với dung dịch HNO 3  dư thu được dung  dịch Y 
+và sản phẩm khử duy nhất là khí NO. Cô cạn dung  dịch Y thu được bao nhiêu gam chất rắn khan 
+A. 64,33 gam.            B. 66,56 gam.                 C. 80,22 gam.                      D. 82,85 gam. 
+Bài 30 . Hòa tan hoàn toàn hỗn hợp gồm Zn và ZnO bằng dung dịch HNO 3 loãng dư. Kết thúc thí nghiệm 
+không có khí thoát ra, dung dịch thu được có chứa 8 gam NH 4NO 3 và 113,4 gam Zn(NO 3)2. Phần trăm số 
+mol Zn có trong hỗn hợp ban đầu là bao nhiêu?  
+A. 66,67%.  B. 33,33%.                     C. 16,66%.                           D. 93,34%.  
+Bài 31 . Hòa tan hoàn toàn 11,9 gam hỗn hợp 2 kim loại (Zn, Al) bằng dung dịch H 2SO 4 đặc nóng thu 
+được 7,616 lít SO 2 (đktc), 0,64 gam S và dung dịch X. Tính khối lượng muối trong X.  
+A. 60,3 gam.  B. 50,3 gam.              C. 72,5 gam.                  D. 30,3 gam.  
+Bài 32. Chia m gam hỗn hợp Fe, Cu làm 2 phần bằng nhau:  
+Phần 1: Cho tác dụng với axit HCl dư thì thu được 2,24 lit khí H2 (đktc).  
+Phần 2 : Cho tác dụng với axit HNO 3 loãng thì thu được 4,48 lit khí NO (đktc).  
+Thành phần % khối lượng kim loại Fe trong hỗn hợp là:  
+A. 36,84%.                           B. 26,6%.                            C. 63,2%.                       D. 22,58 %. 
+
+--- Page 9 ---
+ 9 Bài 33 . Hỗn hợp X gồm hai kim loại A và B đứng trước H trong dãy điện hóa và có hóa trị không đổi trong 
+các hợp chất. Chia m gam X thành hai phần bằng nhau:  
+- Phần 1 : Hòa tan hoàn toàn trong dung dịch chứa axit HCl và H 2SO 4 loãng tạo ra 3,36 lít khí H 2. 
+- Phần 2 : Tác dụng hoàn toàn với dung dịch HNO 3 thu được V lít  khí NO (sản phẩm khử duy nhất).  
+Biết các thể tích khí đo ở đktc. Giá trị của V là  
+A. 2,24 lít.  B. 3,36 lít.                    C. 4,48 lít.                             D. 6,72 lít.  
+Bài 34 . Cho một hỗn hợp X gồm Fe và một kim loại M có hóa trị không đổi. Khối lượng X là 10,83 gam. 
+Chia X ra làm phần bằng nhau:  
+Phần I tác dụng với dung dịch HCl dư cho ra 3,192 lít H 2 (đktc).  
+Phần II tác dụng với dung dịch HNO 3 loãng dư cho ra khí duy nhất là NO có  thể tích là 2,688 lít (đktc) và 
+dung dịch A. Kim loại khối lượng M và % M trong hỗn hợp X  là :  
+A. Al, 53,68%             B. Cu, 25,87%           C. Zn, 48,12%   D. Al 22,44%  
+Bài 35 . Cho 6,72 gam Fe vào 400 ml dung dịch HNO 3 1M, đến khi phản ứng xảy ra hoàn toàn, thu được 
+khí NO (sản phẩm khử duy nhất) và dung dịch X. Dung dịch X có thể hoà tan tối đa m gam Cu. Giá trị của 
+m là 
+A. 1,92.               B. 3,20.       C. 0,64.        D. 3,84.  
+Bài 36 . Cho a mol Cu kim loại tan hoàn toàn trong 120 ml dung dịch X gồ m HNO 3 1M và H 2SO 4 0,5M 
+(loãng) thu được V lít khí NO duy nhất (đktc). Tính V?  
+A. 14,933 lít.      B. 12,32 lít.                C. 18,02 lít.                         D. 1,344 lít  
+Bài 37. Cho 5,8 gam muối FeCO 3 tác dụng với dung dịch HNO 3 vừa đủ, thu được hỗn  hợp khí chứa CO 2, 
+NO và dung dịch X. Cho dung dịch HCl rất dư vào dung dịch X được dung dịch Y, dung dịch Y này hòa 
+tan được tối đa m gam Cu, sinh ra sản phẩm khử NO duy nhất. Giá trị của m là  
+A. 64 gam            B. 11,2 gam    C. 14,4 gam            D. 16 gam 
+Bài 38 . Cho 5,6 gam Fe vào 200 ml dung dịch Cu(NO 3)2 0,5M và HCl 1M thu được khí NO và m gam kết 
+tủa. Xác định m. Biết rằng NO là sản phẩm khử duy nhất của NO-
+3  và không có khí H 2 bay ra.  
+A. 1,6 gam    B. 3,2 gam    C. 6,4 gam    D. đáp án khác.  
+Bài 39 . Cho hỗn hợp gồm 1,12 gam Fe và 1,92 gam Cu vào 400 ml dung dịch chứa hỗn hợp gồm H 2SO 4 
+0,5M và NaNO 3 0,2M. Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch X và khí NO (sản 
+phẩm khử duy nhất). Cho V ml dung dịch NaOH 1M vào dung dịch X thì lượng k ết tủa thu được là lớn 
+nhất. Giá trị tối thiểu của V là  
+A. 240.          B. 120.                 C. 360.                            D. 400.  
+Bài 40.  Cho 3,2 gam Cu tác dụng với 100ml dung dịch hỗn hợp HNO 3 0,8M + H 2SO 4 0,2M, sản phẩm 
+khử duy nhất của HNO 3 là khí NO. Số gam muối khan thu được là  
+A. 5,64.                                    B. 7,9.                            C. 8,84.                                   D. 6,82  
+Bài 41 . Dung dịch A chứa 0,01 mol Fe(NO 3)3 và 0,15 mol HCl có khả năng hòa tan tối đa bao nh iêu gam 
+Cu kim loại? (Biết NO là sản phẩm khử duy nhất)  
+A. 2,88 gam.  B. 3,92 gam.                        C. 3,2 gam.                D. 5,12 gam.  
+ 
+ 
+ 
+
+--- Page 10 ---
+ 10 III- DẠNG 3  
+BÀI TẬP : KIM LOẠI TÁC DỤNG VỚI CÁC DUNG DỊCH MUỐI  
+1. Phương pháp giải chung  
+- Với loại bài toán này thì đều có thể vận dụng  cả 2 phương pháp đại số và một số phương pháp giải 
+nhanh như: bảo toàn electron, bảo toàn khối lượng , đặc biệt là pp tăng giảm khối lượng  
+- Khi giải cần chú ý:  
++ Thuộc dãy điện hóa của kim loại  
++ Khi giải nên viết các PTHH dướ i dạng ion rút gọn thì bài toán sẽ đơn giản hơn  
++ Các bài tâp này đều dựa trên phản ứng của kim loại mạnh hơn tác dụng với muối của kim loại yếu 
+hơn, tuy nhiên một số trường hợp không xảy ra như vậy: thí dụ: Khi cho các kim loại kiềm và kiềm thổ( 
+Ca, Ba, S r) tác dụng với các dung dịch muối của kim loại yếu hơn thì các kim lọai này sẽ tác dụng với 
+H2O trong dung dịch đó trước , sau đó kiềm sinh ra sẽ tác dụng với muối.  
+VD: Cho lần lượt 2 kim loại Fe và Na vào 2 ống nghiệm đựng dung dịch CuSO 4. Nêu hiện tượng  và viết 
+PTHH  
+Giải: - Khi cho Fe vào dung dịch CuSO 4 ( màu xanh) thì có hiện tượng dung dịch bị nhạt màu và có chất 
+rắn màu đỏ bám trên kim loại Fe  
+                             Fe  + CuSO 4→ FeSO 4 + Cu↓( đỏ)  
+                                        Xanh       ko màu  
+- Khi cho Na vào dung dịch CuSO 4 thì thấy có khí không màu thoát ra và có kết tủa xanh  
+                         2Na  +  2H 2O→  2NaOH + H 2↑ 
+                           2NaOH + CuSO 4 → Cu(OH) 2↓ + Na 2SO 4 
+                                                               Xanh  
++ Khi cho một hỗn hợp nhiều kim loại tác dụng với một hỗn hợp muối thì phản ứng xảy ra theo thứ tự: 
+kim loại có tính khử mạnh nhất sẽ tác dụng hết với các muối có tính oxi hóa mạnh nhất , sau đó mới đến 
+lượt các chất khác  
+VD: Cho hỗn hợp Fe, Al vào dung dịch chứa AgNO 3 và Cu(NO 3)2 thì xảy ra lần lượt các phản ứng sau:  
+Al  +  3AgNO 3 → Al(NO 3)3 + 3Ag           (1)  
+2Al + 3Cu(NO 3)2 → 2Al(NO 3)3 + 3Cu      (2)  
+Fe  +  2AgNO 3 → Fe(NO 3)2 + 2Ag           (3)  
+Fe + Cu(NO 3)2 → Fe(NO 3)2 + Cu             (4) 
++ Trong bài toán có sự tăng giảm khối lượng thì:  
+mKL↑= m KL bám vào – mKL tan ra  
+mKL↓ = m KLtan ra   - mKL bám vào  
+ 
+2. Một số bài toán tham khảo  
+Bài 1 . Ngâm một lá sắt trong dung dịch CuSO 4. Nếu biết khối lượng đồng bám trên lá sắt là 9,6 gam thì 
+khối lượng lá sắt sau ngâm tăng thêm bao nhiêu gam so với ban đầu?  
+A. 5,6 gam.                     B. 2,8 gam.                            C. 2,4 gam.                                 D. 1,2 gam  
+Bài 2 . Nhúng một lá nhôm vào 200ml dung dịch CuSO 4, đến khi dung dịch  mất màu xanh, lấy lá nhôm ra 
+cân thấy nặng hơn so với ban đầu là 1,38 gam. Nồng độ của dung dịch CuSO 4 đã dùng là . 
+A. 0,15 M                         B. 0,05 M                C.0,2 M             D. 0,25 M  
+Bài 3 . Nhúng một thanh nhôm nặng 25 gam vào 200 ml dun g dịch CuSO 4 0,5M. Sau một thời gian, cân 
+
+--- Page 11 ---
+ 11 lại thanh nhôm thấy cân nặng 25,69 gam. Nồng độ mol của CuSO 4 và Al 2(SO 4)3 trong dung dịch sau phản 
+ứng lần lượt là  
+A. 0,425M và 0,2M.                                                                              B. 0,425M và 0,3M.  
+C. 0,4M và 0,2M.                                                                              D. 0,425M và 0,025M.  
+Bài 4. Cho 0,01 mol Fe vào 50 ml dung dịch AgNO 3 1M. Khi phản ứng xảy ra hoàn toàn thì khối lượng 
+Ag thu được là:  
+A. 5,4 g                         B. 2,16 g             C. 3,24 g                                    D. Giá trị khác  
+Bài 5. Cho 4,62 gam hỗn hợp X gồm bột 3 kim loại (Zn, Fe, Ag) vào dung dịch chứa 0,15mol CuSO 4. 
+Sau khi phản ứng xảy ra hoàn toàn, thu được dung dịch Y và chất rắn Z. Dung dịch Y có chứa muối nào 
+sau đây:  
+A. ZnSO 4, FeSO 4                      B. ZnSO 4               C. ZnSO 4, FeSO 4, CuSO 4                 D. FeSO 4 
+Bài 6 . Ngâm một đinh sắt sạch trong 200ml dung dịch CuSO 4. Sau khi phản ứng kết thúc, lấy đinh sắt  ra 
+khỏi dung dịch rửa sạch nhẹ bằng nước cất và sấy khô rồi đem cân thấy khối lượng đinh sắt tăng 0,8 gam 
+so với ban đầu. Nồng độ mol của dung dịch CuSO 4 đã dùng là giá trị nào dưới đây?  
+A. 0,05M.        B. 0,0625M.                        C. 0,50M.                           D. 0,625M.  
+Bài 7.   Cho 12,12 gam hỗn hợp X gồm Al và Fe tác dụng với dung dịch HCl dư thu được dung dịch A và 
+khí H 2. Cô cạn dung dịch A thu được 41,94 gam chất rắn khan. Nếu cho 12,12 gam X tác dụng với dung 
+dịch AgNO 3 dư  thì khối lượng  kim loại thu được là  
+A. 82,944 gam   B. 103,68 gam    C. 99,5328 gam               D. 108 gam  
+Bài 8 . Hòa tan hết m gam hỗn hợp X gốm Mg, FeCl 3  vào nước chỉ thu được dung dịch Y gồm 3 muối và 
+không còn chất rắn. Nếu hòa tan m gam X bằng dung dịch HCl dư thì thu được 2,688 lít H 2 (đkc). Dung 
+dịch Y có thể hòa tan vừa hết 1,12 gam bột Fe. Giá trị của m là  
+A. 46,82 gam           B. 56,42 gam          C. 48,38 gam    D. 52,22 gam  
+Bài 9.  Hòa tan 3,28 gam hỗn hợp muối MgCl 2 và Cu(NO 3)2 vào nước được dung dịch A. Nhúng  vào dung 
+dịch A một thanh sắt. Sau một khoảng thời gian lấy thanh sắt ra cân lại thấy tăng thêm 0,8 gam. Cô cạn dung 
+dịch sau phản ứng thu được m gam muối khan. Giá trị m là:  
+A. 4,24 gam       B. 2,48 gam.   C. 4,13 gam.                         D. 1,49 gam . 
+Bài 10 . Cho m gam Mg vào 100 ml dung dịch A chứa ZnCl 2 và CuCl 2, phản ứng hoàn toàn cho ra dung 
+dịch B chứa 2 ion kim loại và một chất rắn D nặng 1,93 gam. Cho D tác dụng với dung dịch HCl dư còn 
+lại một chất rắn E không tan nặng 1,28 gam. Tính m.  
+A. 0,2 4 gam.  B. 0,48 gam.                        C. 0,12 gam.                            D. 0,72 gam.  
+Bài 11. Cho 5,6 gam Fe vào 200 ml dung dịch Cu(NO 3)2 0,5M và HCl 1M thu được khí NO và m gam kết 
+tủa. Xác định m. Biết rằng NO là sản phẩm khử duy nhất của NO-
+3  và không có khí H 2 bay ra.  
+A. 1,6 gam    B. 3,2 gam    C. 6,4 gam    D. đáp án khác.  
+Bài 12.  Cho hỗn hợp gồm 1,12 gam Fe và 1,92 gam Cu vào 400 ml dung dịch chứa hỗn hợp gồm H 2SO 4 
+0,5M và NaNO 3 0,2M. Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch X  và khí NO (sản 
+phẩm khử duy nhất). Cho V ml dung dịch NaOH 1M vào dung dịch X thì lượng kết tủa thu được là lớn 
+nhất. Giá trị tối thiểu của V là  
+A. 240.  B. 120.                    C. 360.                                D. 400.  
+Bài 13. Cho một đinh sắt luợng  dư vào 200 ml dung dịch muối nitrat kim loại X có nồng độ 0,1M. Sau khi 
+
+--- Page 12 ---
+ 12 phản ứng xảy ra hoàn toàn, tất cả kim loại X tạo ra bám hết vào đinh sắt còn dư, thu được dung dịch 
+D. Khối lượng dung dịch D giảm 0,16 gam so với dung dịch nitrat X lúc đầu. Kim loại  X là:  
+A.  Cu                                B. Hg                              C. Ni                            D. Một kim loại khá c 
+Bài 14. Ngâm một vật bằng Cu có khối lượng 5 g trong 250 g dung dịch AgNO 3 4%. Khi lấy vật ra thì 
+lượng bạc nitrat trong d ung dịch giảm 17%. Hỏi khối lượng của vật sau phản ứng bằng bao nhiêu?  
+A. 5,76 g                  B. 6,08 g                           C. 5,44 g                        D. Giá trị khác  
+Bài 15. Cho một bản kẽm (lấy dư) đã đánh sạch vào dung dịch Cu(NO 3)2, phản ứng xảy ra hoàn toàn, 
+thấy khối lượng bản kẽm giảm đi 0,01g. Hỏi khối lượng muối Cu(NO 3)2 có trong dung dịch là bao nhiêu? 
+A. < 0,01 g                       B. 1,88 g                C. ~0,29 g                           D. Giá trị khác . 
+. 
+Bài 16. Cho 8,3g hỗ n hợp X gồm Fe và Al vào 1lít dung dịch CuSO 4 0,2 M, sau khi phản ứng xảy ra hoàn 
+toàn thu được 15,68g chất rắn Y gồm 2 kim loại. Thành phần phần trăm theo khối lượng của nhôm trong 
+hỗn hợp X là:  
+A. 32,53%                         B. 53,32%                            C. 50%                             D. 35,3%  
+Bài 17 . Cho m gam bột Fe tác dụng với 175 gam dung dịch AgNO 3 34% sau phản ứng thu được dung dịch 
+X chỉ chứa 2 muối sắt và 4,5 m gam chất rắn. Nồng độ % của Fe(NO 3)2 trong dung dịch X là  
+A.9,81%       B. 12,36%                 C.10,84%     D. 15,6%  
+Bài 18. Cho m gam bột Al vào 400 ml dung dịch Fe(NO 3)3 0,75M và Cu(NO 3)2 0,6 M, sau phản ứng thu 
+được dung dịch X và 23,76 gam hỗn hợp 2 kim loại. Giá trị của m là  
+A. 9,72 gam        B. 10,8 gam   C. 10,26 gam             D. 11,34 gam  
+Bài 19 . Hòa tan hoàn toàn 5,64 gam Cu(NO 3)2 và 1,7 gam AgNO 3 vào nước được 101,43 gam dung dịch 
+A. Cho 1,57 gam bột kim loại gồm Zn và Al vào dung dịch A và khuấy đều. Sau khi phản ứng xảy ra hoàn 
+toàn thu được phần rắn B và dung dịc h D chỉ chứa 2 muối. Ngâm B trong dung dịch H 2SO 4 loãng không 
+thấy có khí thoát ra. Nồng độ mỗi muối có trong dung dịch D là :  
+A. C%Al(NO 3)3 = 21,3% và C%Zn(NO 3)2 = 3,78%  
+B. C%Al(NO 3)3 = 2,13% và C%Zn(NO 3)2 = 37,8%  
+C. C%Al(NO 3)3 = 2,13% và C%Zn(NO 3)2 = 3,7 8% 
+D. C%Al(NO 3)3 = 21,3% và C%Zn(NO 3)2 = 37,8%  
+Bài 20 . Dung dịch X chứa AgNO 3 và Cu(NO 3)2. Thêm 1 lượng hỗn hợp gồm 0,03 mol Al và 0,05 mol Fe 
+vào 100 ml dung dịch X cho tới khi phản ứng kết thúc thu được 8,12 gam chất rắn Y gồm 3 kim loại. Cho 
+Y vào dung  dịch HCl dư thu được 0,672 lít khí (đktc). Tổng nồng độ của 2 muối là :  
+A. 0,3M   B. 0,8M   C. 0,42M   D. 0,45M  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 13 ---
+ 13 IV- DẠNG 4  
+BÀI TẬP: VỀ CÁC HỢP CHẤT LƯỠNG TÍNH  
+1. Phương pháp giải chung  
+- Với dạng bài tập này phương pháp tối ưu nhất là pp đại số: Viế t tất cả các PTHH xảy ra, sau đó dựa vào 
+các dữ kiện đã cho và PTHH để tính toán  
+- Một số vấn đề cần chú ý:  
++ Cần phải hiểu thế nào là hợp chất lưỡng tính( vừa tác dụng với axit, vừa tác dụng với bazo) bao gồm 
+muối HCO 3-, HSO-
+3, các oxit: Al 2O3, ZnO, Cr 2O3, các hiđroxit như: Al(OH) 3, Zn(OH) 2, Cr(OH) 3 
++ Bài toán về sự lưỡng tính của các hidroxit có 2 dạng như sau: Ví dụ về Al(OH) 3 
+* Bài toán thuận: Cho lượng chất tham gia phản ứng , hỏi sản phẩm  
+VD: Cho dung dịch muối nhôm ( Al3+) tác dụng với dung dịch kiềm  ( OH-). Sản phẩm thu được gồm 
+những chất gì phụ thuộc vào tỉ số k = nOH-/nAl3+ 
++ Nếu k≤ 3 thì Al3+ phản ứng vừa đủ hoặc dư khi đó chỉ có phản ứng  
+                   Al3+  +   3OH- → Al(OH) 3 ↓        ( 1)                    ( k= 3 có nghĩa là kết tủa cực đ ại) 
++ Nếu k ≥ 4 thì OH-phản ứng ở (1) dư và hòa tan vừa hết Al(OH) 3 theo phản ứng sau:  
+                     Al(OH) 3  + OH- → Al(OH) 4-     (2) 
++ Nếu 3< k < 4 thì OH- dư sau phản ứng (1) và hòa tan một phần Al(OH) 3 ở (2)  
+* Bài toàn nghịch: Cho sản phẩm , hỏi  lượng chất đã tham gia phản ứng  
+VD: Cho a mol OH- từ từ vào x mol Al3+, sau phản ứng thu được y mol Al(OH) 3 ( x, y đã cho biết). Tính 
+a? 
+Nhận xét: nếu x=y thì bài toán rất đơn giản, a= 3x=3y  
+Nếu y< x Khi đó xảy ra một trong hai trường hợp sau:  
++ Trường h ợp 1: Al3+ dư sau phản ứng (1) Vậy                              Trường hợp này số mol OH- là nhỏ nhất  
+ 
++ Trường hợp 2 :  Xảy ra cả (1) và (2) vậy:                                    Trường hợp này số mol OH- là lớn nhất  
+ 
++ Muốn giải được như bài toán trên chúng ta cần quy về số mol Al3+ trong AlCl 3, Al 2(SO 4)3.. và quy về số 
+mol OH- trong các dd sau: NaOH, KOH, Ba(OH) 2, Ca(OH) 2 
++ Cần chú ý đến kết tủa BaSO 4 trong phản ứng của Al 2(SO 4)3 với dung dich Ba(OH) 2. Tuy cách làm 
+không thay đổi nhưng khối lượng kết t ủa thu được gồm cả BaSO 4 
++ Trong trường hợp cho OH- tác dụng với dung dịch chứa cả Al3+ và H+ thì OH- sẽ phản ứng với H+ trước 
+sau đó mới phản ứng với Al3+ 
++ Cần chú ý các dung dịch muối như Na[Al(OH) 4], Na 2[Zn(OH) 4]... khi tác dụng với khí CO 2 dư thì lượn g 
+kết tủa không thay đổi vì:  
+Na[Al(OH) 4] + CO 2→ Al(OH) 3↓ + NaHCO 3, Còn khi tác dụng với HCl hoặc H 2SO 4 loãng thì lượng kết 
+tủa có thể bị thay đổi tùy thuộc vào lượng axit:  
+                                          HCl + Na[Al(OH) 4]  → Al(OH) 3 ↓+ NaCl + H 2O 
+                                   Nếu HCl dư: Al(OH) 3  + 3HCl→ AlCl 3  + 3H 2O 
+ 
+2. Một số bài tập tham khảo  
+Bài 1.  Lấy 20 g hỗn hợp bột Al và Fe 2O3 ngâm trong dung dịch NaOH(dư), phản ứng xong người ta thu 
+được 3, 36l khí hidro (đktc). Khối lượng Fe 2O3 ban đầu là:  a = 3y  
+a= 4x -y 
+
+--- Page 14 ---
+ 14 A. 13,7 gam    B. 17,3 gam          C. 18 gam                       D. 15,95gam  
+Bài 2. Nung nóng m gam hỗn hợp Al và Fe 2O3 (trong môi trường không có không khí) đến khi phản ứng 
+xảy ra hoàn toàn, thu được hỗn hợp rắn Y. Chia Y thành hai phần bằng nhau:  
+- Phần 1 tác dụng với dung dịch H 2SO 4 loãng (dư), sinh ra 3,08 lít khí H2 (ở đktc);  
+- Phần 2 tác dụng với dung dịch NaOH (dư), sinh ra 0,84 lít khí H2 (ở đktc). Giá trị của m là  
+A. 22,75                               B. 21,40.                            C. 29,40.                         D. 29,43.  
+Bài 3. Nung nóng m gam hỗn hợp gồm Al và Fe 3O4 trong điều kiện không có không khí. Sau khi phản 
+ứng xảy ra hoàn toàn, thu được hỗn hợp rắn X. Cho X tác dụng với dung dịch NaOH (dư) thu được dung 
+dịch Y, chất rắn Z và 3,36 lít khí H 2 (ở đktc). Sục khí CO 2 (dư) vào dung dịch Y, thu được 39 gam kết 
+tủa. Giá trị của m là  
+A. 36,7.                                 B. 48,3.                             C. 45,6.                             D. 57,0.  
+Bài 4 . Chia 20g hỗn h ợp X gồm Al; Fe; Cu thành hai phần bằng nhau. Phần 1 cho tác dụng hết với dung 
+dịch HCl thu được 5,6lít khí ở đktc. Phần 2 cho tác dụng với dung dịch NaOH dư thu được 3,36lít khí ở 
+đktc. Thành phần phần trăm theo khối lượng của Cu trong hỗn hợp X là:  
+A. 8, 5%                                 B. 13%                                C. 16%                                  D. 17%  
+Bài 5. Cho m gam Na vào 50 ml dung dịch AlCl 3 1M. Sau khi phản ứng xảy ra hoàn toàn, thì thu được 
+V lít khí (đktc), dung dịch X và 1,56 gam kết tủa.Khi thổi CO 2 dư vào dung dịch X lại thấy xuất hiện 
+thêm kết tủa.Khối lượng Na ban đầu là:  
+A. 4,14 g                      B. 1,44 g                          C. 4,41 g                        D. 2,07 g  
+Bài 6. Cho 200 ml dung dịch AlCl 3 1,5M tác dụng  với V lít dung dịch NaOH 0,5M, lượng kết tủa thu 
+được là 15,6 gam. Giá trị lớn nhất của V là (cho H = 1, O = 16, Al = 27)  
+A. 1,2.                                      B. 1,8.                                         C. 2,4.                                               D. 2. 
+Bài 7. : Hoà tan hoàn toàn 0,3 mol hỗn hợp gồm Al và Al 4C3 vào dung dịch KOH (dư), thu được a mol 
+hỗn hợp khí và dung dịch X. Sục khí CO 2 (dư) vào dung dịch X, lượng kết tủa thu được là 46,8 gam. 
+Giá trị của a là  
+A. 0,55.                              B. 0,60.                               C. 0,40.                            D. 0,45.  
+Bài 8 . Cho 200 ml dung dịch NaOH 1M vào 200 ml dung dịch HCl thu được dung dịch B. Cho dung dịch 
+B vào 200 ml dung dịch NaAlO 2 0,2M thu được 2,34 gam kết tủa . Tính nồng độ của dung dịch HCl.  
+A.  1,15M    B.  1,35M    C. 1,15M và 1,35M   D. 1,2M.  
+Bài 9 .  Cho m gam kim loại Na vào 200 gam. dung dịch Al 2(SO 4)3 1,71%. Sau khi phản ứng xong thu 
+được 0,78 gam kết tủa. m có giá trị là  
+A. 0,69 gam.                                  B. 1,61 gam.  
+C. cả A và B đều đúng.                                                              D. đáp án khác  
+Bài 10 . Cho 0,54 gam Al vào 40 ml dung dịch NaOH 1M, sau phản ứng hoàn toàn thu được dung dịch X. 
+Cho từ từ dung dịch HCl 0,5M vào dung  dịch X thu được kết tủa. Để thu được lượng kết tủa lớn nhất cần 
+thể tích dung dịch HCl 0,5M là  
+A. 110 ml.  B. 90 ml.               C. 70 ml.                                   D. 80 ml.  
+Bài 11 . Hỗn hợp A gồm Na và Al 4C3 hòa tan vào nước chỉ thu được dung dịch  B và 3,36 lít khí C. Khối 
+lượng Na tối thiểu cần dùng là:  
+A. 0,15g         B. 2,76g                C. 0,69g                   D. 4,02g  
+Bài 12 . Hỗn hợp A gồm Na, Al , Cu cho 12 gam A vào nước dư thu 2,24 lít khí (đktc) , còn nếu cho vào 
+dung dịch NaOH dư thu  3,92 lít khí ( đktc) . % Al trong hỗn hợp ban đầu  ? 
+
+--- Page 15 ---
+ 15 A. 59,06%            B. 22,5%   C. 67,5 %     D. 96,25%  
+Bài 13 . Cho m gam hỗn hợp X gồm Na 2O và Al hoà tan hết vào H 2O dư thu được 200 ml dung dịch A chỉ 
+chứa 1 chất tan duy nhất có nồng độ 0,2M. Giá trị c ủa m là :  
+A. 2,32  B. 3,56  C. 3,52   D. 5,36  
+Bài 14 .  Hòa tan hết m gam ZnSO 4 vào nước được dung dịch X. Cho 110ml dung dịch KOH 2M vào X, 
+thu được a gam kết tủa. Mặt khác, nếu cho 140 ml dung dịch KOH 2M vào X thì cũng thu được a gam kết 
+tủa. Giá trị của m là 
+A. 20,125.        B. 12,375.         C. 22,540.               D. 17,710.  
+Bài 15. Hỗn hợp X gồm các kim loại Al; Fe; Ba. Chia X thành 3 phần bằng nhau:  
+- Phần 1 tác dụng với nước dư thu được 0,04 mol H 2. 
+-  Phần 2 tác dụng với dung dịch NaOH dư thu được 0,0 7 mol H 2. 
+-  Phần 3 tác dụng với dung dịch HCl dư thu được 0,1 mol H 2. 
+Các phản ứng xảy ra hoàn toàn. Số mol Ba, Al, Fe trong 1 phần của hỗn hợp X lần lượt là:  
+A. 0,01; 0,04; 0,03              B. 0,01; 0,02; 0,03                C. 0,02; 0,03; 0,04       D. 0,01; 0,03; 0,03  
+Bài 16. : Hỗn hợp X gồm Na và Al. Cho m gam X vào một lượng dư nước thì thoát ra V lít khí. Nếu 
+cũng cho m gam X vào dung dịch NaOH (dư) thì được 1,75V lít khí. Thành phần phần trăm theo khối 
+lượng của Na trong X là (biết các thể tích khí đo trong cùng điều kiện, cho Na = 23, Al = 27)  
+A. 77,31%.                                B. 39,87%.                           C. 49,87%.                                   D. 29,87%.  
+Bài 17. Cho hỗn hợp gồm Na và Al có tỉ lệ số mol tương ứng là 1 : 2 vào nư ớc (dư). Sau khi các phản 
+ứng xảy ra hoàn toàn, thu được 8,96 lít khí H2 (ở đktc) và m gam chất rắn không tan. Giá trị của m là  
+A. 10,8.                               B. 5,4.                                C. 7,8.                              D. 43,2.  
+Bài 18. Cho a gam Na hòa tan hết vào 86,8 gam dung dịch có chứa 13,35 gam AlCl 3, sau phản ứng hoàn 
+toàn thu được m gam dung dịch X và 3,36 lít khí H 2 (ở 0oC, 2atm). Hãy chọn câu trả lời đúng trong các 
+câu sau:  
+A. m = 100,6 gam và dung dịch X có 3 chất tan.  
+B. m = 100,6 gam và dung dịch X có 2 chất tan.  
+C. m = 100 gam và dung dịch X có 3 chất tan.  
+D. m = 100 gam và dung dịch X có 2 chất tan.  
+Bài 19 .  Một hỗn hợp A gồm Ba và Al. Cho m gam A tác dụng với nước dư, thu được 2,688 lit khí (đktc).  
+Cho 2m gam A tác dụ ng với dung dịch Ba(OH) 2 dư thu được 8, 064 lít khí(đktc). Xác định m.  
+A. 10,05 gam    B. 12,54 gam    C. 20,76 gam   D.  đáp án khác.  
+Bài 20 . Cho m gam hỗn hợp (Na, Al) vào nước dư thấy thoát ra 8,96 lít khí (đktc) và còn lại 2,7 gam kim 
+loại không tan. Khối  lượng m của hỗn hợp ban đầu là  
+A. 12,7 gam.                  B. 9,9 gam.               C. 21,1 gam.                   D. tất cả đều sai  
+Bài 18.  Hoà tan hoàn toàn m gam hỗn hợp X gồm Na; K và Al ( trong đó Na và K có tỷ lệ mol là 1 : 1 ) vào 
+một lượng nước dư thu được dung dịch Y; 2,7g chất rắn Z và 8,96lít khí T ở đktc. Giá trị của m là:  
+A. 17g                                    B. 11,6g                                C. 14,3g                                 D.  16,1g  
+Bài 21 . Cho 38,775 gam hỗn hợp bột Al và Al Cl3 vào lượng vừa đủ dung dịch NaOH thu được dung dịch 
+A (kết tủa vừa tan hết) và 6,72 lít H 2 (đktc). Thêm 250ml dung dịch HCl vào dung dịch A thu được 21,84 
+gam kết tủa. Nồng độ M của dung dịch HCl là :  
+A. 1,12M hoặc 2,48M                                                         B. 2,24M hoặc 2,48M  
+C. 1,12M hoặc 3,84M                                                         D. 2,24M hoặc 3,84M  
+
+--- Page 16 ---
+ 16 Bài 22 . Cho 23,45 gam hỗn hợp X gồm Ba và K vào 125 ml dung dịch AlCl 3 1M thu được V lít khí 
+H2(đktc); dung dịch A và 3,9 gam kết tủa. V có giá trị là :  
+A. 10,08 lít            B. 3,92 lít    C. 5,04 lít          D.6,72 lít  
+ 
+ 
+ 
+ 
+ 
+V- DẠNG 5  
+BÀI TẬP VỀ ĐIỆN PHÂN  
+1. Phương pháp giải chung:  
+- Đối với dạng này chúng ta cần phải viết được sản phẩm của quá trình điện phân nóng chảy , điện phân 
+dung dịch. Đặc biệt là điện phân dung dịch:  
++ Ở catot ( cực âm): Thứ tự xảy ra điện phân như sau: Au3+, Ag+, Cu2+, H+, Pb2+, Sn2+, Ni2+, Fe2+, Zn2+, 
+H2O, Al3+, Mg2+, Ca2+, Na+, K+ 
+Ví dụ:                                              Ag+  + 1e→ A g 
+                                                       H2O + 2e→  H 2 ↑ + 2OH- 
++ Ở anot ( cực dương): thứ tự xảy ra điện phân như sau: I-, Br-, Cl-, OH-, H2O, SO 42-, NO 3- 
+Ví dụ:                   2Cl-  → Cl 2  + 2e 
+                           2H2O→ O 2↑ + 4H+ + 4e 
+- Vận dụng công thức của định luật Faraday:  
+Trong đó: m là khối lượng chất thu được ở các điện cực ( g)  
+A là nguyên tử khối của chất ở điện cực  
+I là cường độ dòng điện (A)  
+t là thời gian điện phân (s)  
+n là số e nhường hoặc nhận của chất ở điện cực  
+F là hằng số faraday = 96500  
+2. Một số bài tập tham khảo  
+Bài 1 . Điện phân dung dịch CuSO 4 nồng độ 0,5M với điện cực trơ trong thì thu được 1gam Cu. Nếu dùng 
+dòng điện một chiều có cường độ 1A, thì thời gian điện phân tối thiểu là  
+A. 50 phút 15 giây.                                                                         B. 40 phút 15 giây.  
+C. 0,45 giờ.                                              D. 0,65 giờ.  
+Bài 2 . Điện phân một dung dịch muối nitrat của một kim loại M hóa trị n với cường độ dòng I = 9,65 A,  
+thời gian điện phân 400 giây thì thấy khối lượng catot tăng 4,32 gam. M là kim loại:  
+A.Cu                                         B. Ag                                             C. Fe                                   D. Zn  
+Bài 3 . Điện phân 500 ml dung dịch A chứa CuCl 2 0,2 M, NaCl 0,1 M với cường độ dòng điện I= 4 A, thời 
+gian t giây đến khi bắt đầu có khí thoát ra ở catot thì dừng lại.Giá trị của t là:  
+A. 4250 giây                       B. 3425 giây                         C. 4825 giây                           D. 2225 giây  
+Bài 4 . Điện phân 2 lít dung dịch AgNO 3 0,03 M một thời gian thu được dung dịch A có pH= 2. Hiệu suất 
+điện phân là: ( coi thể tích dung dịch không đổi)  
+A. 66,67%                                  B. 25%                                          C. 30%                            D. 33,33%  
+Bài 5.  Điện phân 1 lít dung dịch Cu(NO 3)2 0,2 M đến khi ở catot bắt đầu có khí thoát ra thì dừng lại thu 
+A.I.t
+n.Fm=  
+
+--- Page 17 ---
+ 17 được dung dịch A. Dung dịch A có thể hòa tan được tối đa bao nhiêu gam Fe? ( biết rằng có khí NO d uy 
+nhất thoát ra ngoài)  
+A. 8,4 gam                                   B. 4,8 gam                               C. 5,6 gam                               D. 11,2 gam  
+Bài 6. Hòa tan 11,7 gam NaCl vào nước rồi đem điện phân có màng ngăn, thu được 500 ml dung dị ch có 
+pH= 13. Hiệu suất điện phân là:  
+A. 15%                                  B. 25%                                    C. 35%                                   D.  45% 
+Bài 7. Điện phân 1 lít dung dịch AgNO 3 với điện cực trơ, dung dịch sau điện phân có pH= 2. Coi thể tích 
+dung dịch sau điện phân không thay đổi. Khối lượng bạc bám ở catot là:  
+A. 2,16 gam                         B. 1,08 gam                           C. 0,108 gam                        D. 0,54 gam  
+Bài 8. Điện phân 1 lít dung dịch NaCl dư với đi ện cực trơ, màng ngăn xốp tới khi dung dịch thu được có 
+pH=12 ( coi lượng Cl 2 tan trong H 2O ko đáng kể, thể tích dung dịch thay đổi không đáng kể), thì thể tích 
+khí thoát ra ở anot ( đktc) là bao nhiêu?  
+A. 0,336 lít                                B. 0,112 lít                             C. 0,224 lít                             D. 1,12 lít  
+Bài 9. Điện phân dung dịch CuCl 2 với điện cực trơ, sau một thời gian thu được 0,32g Cu ở catôt và một 
+lượng khí X ở anôt. Hấp thụ hoàn toàn lượng khí X nói trên vào 200ml dung dịch NaOH ( ở nhiệt độ 
+thường ). Sau phản ứng, nồng độ NaOH còn lại là 0,05M ( giả thiết thể tích dung dịch không thay đổi ). 
+Nồng độ ban đầu của dung dịch NaOH là:  
+A. 0,15M                                      B. 0,2M                          C. 0,1M                               D. 0,05M  
+Bài 10. Điện phân dung dịch muối nitrat kim loại với hiệu suất dòng 100%, cường độ dòng điện không 
+đổi 7,72 A trong thời gian 9 phút 22,5 giây. Sau khi kết thúc khối lượng catot tăng lên 4,86 gam do kim 
+loại bám vào. Kim  loại đó là:  
+A. Cu                                      B. Hg                                       C. Ag                              D. Pb 
+Bài 11.  Điện phân dung dịch có hòa tan 10,16 gam FeCl 2 và 3,51 gam NaCl ( có màng ngăn và điện cực 
+trơ) trong thời gian 33 phút 20 giây với cường độ dòng điện I= 9,65 A. Dung dịch sau điện phân trung hòa 
+vừa đủ V lít dung dịch HCl 0,2 M. Giá trị của V là:  
+A. 0,18                                             B. 0,2                                       C. 0,3                                        D. 0,5  
+Bài 12. Điện phân 200 ml dung dịch CuSO 4 nồng độ a mol/l đến khi dung dịch vẫn còn màu xanh thấy 
+khối lượng dung dịch giảm 0,8 gam.  Cho 1,68 gam Fe vào dung dịch thu được sau điện phân, sau khi 
+phản ứng xảy ra hoàn toàn thu được 1,2 gam kim loại. Giá trị a là:  
+A. 0,2 M                                  B. 0,1 M                                    C. 0,15 M                               D. 0,25 M  
+Bài 13. Điện phân dung dịch AgNO 3 một thời gian thu được dung dịc A và 0,672 lí t khí ở anôt ( ở đktc). 
+Cho 5,32  gam Fe vào dung dịch A thu được V lít khí không màu hóa nâu ngoài không khí ( ở đktc) dung 
+dịch B ( chỉ chứa một muối)  chất rắn C ( chỉ chứa một khim loại). Hiệu suất của quá trình điện phân và 
+giá trị V là:  
+A 25% và 0,67 2 lít               B. 20% và 0,336 lít             C. 80% và 0,336 lít                  D. 85% và 8,96 lít  
+ 
+ 
+VI- DẠNG 6  
+BÀI TẬP VỀ PHẢN ỨNG CỦA CO 2, SO 2 VỚI CÁC DUNG DỊCH KIỀM  
+1. Định hướng phương pháp giải chung : 
+Đưa số mol kiềm về số mol của ion OH-, sau đó viết PTHH, tính theo PTHH đó: có 2 dạng bài toán  
+Bài toán thuận : Cho chất tham gia phản ứng, tìm sản phẩm: Với bài toán loại này ta chỉ cần tính tỉ số mol 
+
+--- Page 18 ---
+ 18 gữa OH- và O 2 (SO 2) 
+Đặt k= nOH-/nCO 2 Khi đó nếu:  
++  k≤ 1 sản phẩm thu được là muối axit, tức là  chi xảy ra phản ứng: OH-  + CO 2 →HCO 3-     (1) 
++ k≥ 2  sản phẩm thu được là muối trung hòa, tức là chỉ xảy ra phản ứng: 2OH- + CO 2 → CO 32-+ H 2O (2)  
++ 1< k < 2 : sản phẩm gồm cả 2 muối, tức là xảy ra cả (1) và (2), khi đó lập hệ phương trình theo số mol 
+CO 2 và số mol OH- sẽ tìm được số mol 2 muối.  
+Bài toán nghịch : Cho sản phẩm, hỏi chất tham gia phản ứng:  
+VD: Cho x mol CO 2 tác dụng với a mol OH- tạo thành b kết tủa ( b mol muối trung hòa). Tìm giá trị x biết 
+a,b. 
+Giải: Với bài toán này thì chúng ta chú ý đế n giá trị a, b.  
+-     Nếu a=2b thì bài toán rất đơn giản x= b  
+-   Nếu a> 2b thì bài toán có thể có 2 đáp số vì xảy ra 2 trường hợp  
++ Trường hợp 1: OH- dư, tức là chỉ xảy ra phản ứng (2) Vậy x= b  
++ Trường hợp 2; Xảy cả 2 phản ứng (1),(2): Vậy x= a -b 
+Chú ý : Để giải được bài toán dạng này chúng ta cần hểu;  
++ Cho dù đầu bài cho CO 2 hay SO 2 tác dụng với 1 hay nhiều dung dịch kiềm thì ta cũng đưa hết về số mol 
+OH- 
++  Nếu bài toán yêu cầu tính số mol kết tủa thì giữa số mol CO 32- (SO 32-) và Ba2+ (  Ca2+) ion nào c ó số 
+mol nhỏ hơn thì số mol kết tủa tính theo ion đó.  
+ 
+2. Một số bài tập tham khảo  
+Bài 1 . Dung dịch X chứa NaOH 0,2M và Ca(OH) 2 0,1M. Sục 7,84 lít khí CO 2 (đktc) vào 1 lít dung dịch X 
+thì khối lượng kết tủa thu được là  
+A. 15 gam.  B. 5 gam.               C. 10 gam.                         D. 20 gam.  
+Bài 2 . Cho V lít (đktc) CO 2 tác dụng với 200 ml dung dịch Ca(OH) 2 1M thu được 10 gam kết tủa. Vậy thể 
+tích V của CO 2 là 
+A. 2,24 lít.                B. 6,72 lít.                    C. 8,96 lít.                                  D. 2,24 hoặc 6,72 lít  
+Bài 3 . Cho 56ml khí CO 2 hấp thụ hết vào 100ml dung dịch chứa NaOH 0,02M và Ba(OH) 2 0,02M. Khối 
+lượng kết tủa thu được là:  
+A. 0,0432g                            B. 0,4925g                         C. 0,2145g                                       D. 0,394g  
+Bài 4 . Dẫn V lít khí CO 2 ( ở đktc) qua 500 ml dung dịch Ca(OH) 2 nồng x M , sau phản ứng thu được 3 
+gam kết tủa và dung dịch A. Đun nóng dung dịch A thu được thêm 2 gam kết tủa nữa. Giá trị của V và x 
+là 
+A. 1,568 lit và 0,1 M             B. 22,4 lít và 0,05 M                 C. 0,1792 lít và 0,1 M     D. 1,12 lít và 0,2 M  
+Bài 5.  Cho V lít khí SO 2 ( ở đktc) vào 700 ml Ca(OH) 2 0,1 M sau phản ứng thu được 5 gam kết tủa. Giá 
+trị của V là:  
+A. 2,24 lít hoặc 1,12 lít            B. 1,68 lít hoặc 2,016 lít          C. 2,016 lít hoặc 1,12 lít                D. 3,36 lít  
+Bài 6 . Đốt 8,96 lít H 2S (đktc) rồi hoà tan sản phẩm khí sinh ra vào dung dịch NaOH 25% (d = 1,28 g/ml) 
+thu được 46,88 gam muối. Thể tích dung dịch NaOH là  
+A. 100 ml.  B. 80ml .        C. 120 ml.                           D. 90 ml.  
+Bài 7 . Đốt cháy hoàn toàn 8,8 gam FeS và 12 gam FeS 2 thu được khí. Cho khí này sục vào V ml dung 
+dịch NaOH 25% (d=1,28 g/ml) được muối trung hòa. Giá trị tối thiểu của V là  
+
+--- Page 19 ---
+ 19 A. 50 ml.  B. 75 ml.           C. 100 ml.                        D. 120 ml.  
+Bài 8. Đốt cháy hoàn toàn 0,9  gam FeS 2 trong O 2 dư. Hấp thụ toàn bộ khí thu được vào 100 ml dung dịch 
+gồm NaOH 0,1 M và Ba(OH) 2 0,05 M thì thu được bao nhiêu gam kết tủa?  
+A. 1,080 gam                   B. 2,00 5 gam                            C. 1,6275 gam                     D. 1,085 gam  
+Bài 9. Đốt cháy m gam FeS trong khí O 2 dư thu được khí X. Hấp thụ hoàn toàn khí X vào 200 ml dung 
+dịch gồm NaOH 0,1 M và Ba(OH) 2 0,1 M. Sau phản ứng thu được dung dịch Y và 4,3 4 gam kết tủa.  
+Khi cho dung dịch NaOH vào dung dịch X thì lại thấy có kết tủa Giá trị của m là:  
+A. 2,53 gam                          B. 3,52 gam                             C.3,25 gam                      D. 1,76 gam  
+Bài 10 . Sục hết 1,568 lít khí CO 2 (đktc ) vào 500 ml dung dịch NaOH 0,16M. Sau thí nghiệm được dung 
+dịch A. Rót 250 ml dung dịch B gồm BaCl 2 0,16M và Ba(OH) 2 xM vào dung dịch A được 3,94 gam kết 
+tủa và dung dịch C. Nồng độ xM của Ba(OH) 2 bằng  
+A. 0,02M.  B. 0,025M.                 C. 0,03M.                                 D. 0,015M.  
+Bài 11. Nung nóng m gam MgCO 3 đến khi khối lượng không đổi thì thu được V lít khí CO 2 ( ở đktc). Hấp 
+thụ hoàn toàn V lít CO 2 vào 400 ml dung dịch Ca(OH) 2 0,1 M thì thu được 2,5 gam kết tủa và dung dịch 
+X. Cho dung dịch N aOH dư vào X thì thu được a gam kết tủa. Giá trị của V và a là:  
+A. 1,232 lít và 1,5 gam           B. 1,008 lít và 1,8 gam          C. 1,12 lít và 1,2 gam      D. 1,24 lít và 1,35 
+gam 
+Bài 12.  Cho m gam FeCO 3 tác dụng với dung dịch HNO 3 đặc nóng (dư) thu đượ c hỗn hợp khí X. Hấp thụ 
+hoàn toàn X vào dung dịch Ca(OH) 2 0,05 M dư thì thấy có V lít dung dịch Ca(OH) 2 phản ứng và thu được 
+2 gam kết tủa. Giá trị m và V là:  
+A. 3,2 gam và 0,5 lít                B. 2,32 gam và 0,6 lít          C. 2,22 gam và 0,5 lít       D. 2,23 gam và 0,3 lít  
+ 
+ 
+VII- DẠNG 7  
+BÀI TẬP VỀ PHẢN ỨNG CỦA CO, H 2, C, Al VỚI OXIT KIM LOẠI  
+1. Định hướng phương pháp giải chung  
+- Phương chung để giải là dùng phương pháp bảo toàn electron hoặc bảo toàn nguyên tố hoặc bảo toàn 
+khối lượng để giải.  
+- Chú ý : +  Trong các phản ứng của C, CO, H 2 thì số mol CO= nCO 2, nC= nCO 2, nH 2= nH 2O. 
++  Các chất khử C, CO, H 2 không khử được các oxit MgO, Al 2O3 và các oxit khác của kim loại kiềm và 
+kiềm thổ.  
++ Đa số khi giải chúng ta chỉ cần viết sơ đồ chung của phản ứn g, chứ không cần viết PTHH cụ thể, tuy 
+nhiên các phản ứng nhiệt nhôm nên viết rõ PTHH vì bài toán còn liên quan nhiều chất khác.  
++ Thực chất khi cho CO, H 2 tác dụng với các chất rắn là oxit thì khối lượng của chất rắn giảm đi chính là 
+khối lượng của oxi tr ong các oxit.  
+ 
+2. Một số bài tập tham khảo  
+Bài 1. .Trộn hỗn hợp bột Al với bột Fe 2O3 dư. Khơi mào phản ứng của hỗn hợp ở nhiệt độ cao trong 
+môi trường không có không khí. Sau khi kết thúc phản ứng cho những chất còn lại tác dụng với dung 
+dịch HCl (dư) thu đ ược 2,24 lít khí hidro (đktc).Số gam bột nhôm có trong hỗn hợp đầu là:  
+A. 0,27 gam                      B. 2,7 gam                           C. 0,027 gam                           D. 5,4 gam  
+Bài 2 . Hỗn hợp G gồm Fe 3O4 và CuO. Cho hiđro dư đi qua 6,32 gam hỗn  hợp G nung nóng cho đến khi 
+
+--- Page 20 ---
+ 20 phản ứng hoàn toàn, thu được chất rắn G 1 và 1,62 gam H 2O. Số mol của Fe 3O4 và CuO trong hỗn hợp 
+G ban đầu lần lượt là:  
+A. 0,05; 0,01                B. 0,01; 0,05                        C. 0,5; 0,01                    D. 0,05; 0,1  
+Bài 3. .Cho 31,9 gam hỗn hợp Al 2O3, ZnO, FeO, CaO tác dụng hết với CO dư nung nóng thu được 28,7 
+gam hỗn hợp Y. Cho Y tác dụng với dung dịch HCl dư thu được V lít H 2 (đktc). Thể tích H 2 là: 
+A. 4,48 lít                   B. 5,6 lít                    C. 6,7 2 lít                        D. 11,2 lít  
+Bài 4 . Một hỗn hợp X gồm Fe 2O3, FeO và Al 2O3 có khối lượng là 42,4 gam. Khi cho X tác dụng với 
+CO dư, nung nóng người ta thu được 41,6 gam hỗn hợp rắn Y và hỗn hợp khí gồm CO, CO 2, khi cho 
+hỗn hợp khí này qua dung d ịch Ba(OH) 2 dư thì thu được m gam kết tủa. Khối lượng kết tủa này bằng:  
+A. 4 gam                  B. 16 gam                         C. 9,85 gam                  D. 32 gam  
+Bài 5. .Đốt nóng một hỗn hợp X gồm bột Fe 2O3 và bột Al trong môi trường không có khôn g khí. 
+Những chất rắn còn lại sau phản ứng, nếu cho tác dụng với dung dịch NaOH dư sẽ thu được 0,3 mol H 2; 
+nếu cho tác dụng với dung dịch HCl dư sẽ thu được 0,4 mol H 2. Hỏi số mol Al trong X là bao nhiêu?  
+A. 0,3 mol                                B. 0,6 mo l                    C. 0,4 mol                         D. 0,25 mol  
+Bài 6 . Thổi từ từ V lít hỗn hợp khí (đktc) gồm CO và H 2 đi qua một ống đựng 16,8 gam hỗn hợp 3 oxit: 
+CuO, Fe 3O4, Al 2O3 nung nóng, phản ứng hoàn toàn. Sau phản ứng thu được m gam chất rắn và  một hỗn 
+hợp khí nặng hơn khối lượng của hỗn hợp V là 0,32 gam. Tính V và m.  
+A. 0,224 lít và 14,48 gam.  B. 0,672 lít và 18,46 gam.  
+C. 0,112 lít và 12,28 gam.  D. 0,448 lít và 16,48 gam.  
+Bài 7. Khử hoàn toàn 24 gam hỗn hợp CuO và Fe xOy bằng H 2 dư ở nhiệt độ  cao thu được 17,6 gam hỗn 
+hợp 2 kim loại. Khối lượng của H 2O tạo thành là:  
+A. 1,8 gam                                B. 5,4 gam                             C. 7,2 gam                            D. 3,6  gam 
+Bài 8.  Cho luồng khí CO đi qua ống sứ đựng 0,04 m ol hỗn hợp A gồm FeO, Fe 2O3 đốt nóng. Sau khi  kết 
+thúc thí nghiệm thu được hỗn hợp B gồm 4 chất rắn nặng 4,784 gam. Khí đi ra khỏi ống sứ cho hấp thụ 
+vào dung dịch Ba(OH) 2 dư thì thu được 9,062 gam kết tủa. % khối lượng Fe 2O3 trong A là:  
+A. 86,96%                      B. 16,04%                     C. 13,04%                    D. 6,01%  
+Bài 9. Cho hơi nước đi qua than nóng đỏ được hỗn hợp khí A gồm CO 2, CO, H 2. Toàn bộ lượng khí A 
+vừa đủ khử hết 48 gam Fe 2O3 thành Fe và thu được 10,8 gam H 2O. Phần trăm thể t ích CO 2 trong hỗn hợp 
+khí A là  
+A. 28,571%.  B. 14,289%.                    C. 13,235%.                      D. 13,135%.  
+Bài 10 . . Cho luồng khí CO (dư) đi qua 9,1 gam hỗn hợp gồm CuO và Al 2O3 nung nóng đến khi phản ứng 
+hoàn toàn, thu được 8,3 gam chất rắn. Kh ối lượng CuO có trong hỗn hợp ban đầu là  
+A. 0,8 gam.  B. 8,3 gam.  C. 2,0 gam.  D. 4,0 gam.  
+Bài 11. Dẫn từ từ V lít khí CO ( ở đktc) đi qua ống sứ đựng lượng dư hỗn hợp rắn gồm CuO, Fe 2O3 ( ở 
+nhiệt độ cao). Sau khi các phản ứng xảy ra hoàn toàn, thu được khí X. Dẫn toàn bộ khí X ở trên vào lượng 
+dư dd Ca(OH) 2 thì tạo thành 4 gam kết tủa. Giá trị của V là  
+A. 1,12 lít                                     B. 0,896 lít                          C. 0,448 lít                     D. 0,2 24 lít  
+Bài 12. Thổi CO dư qua ống  đựng 217,4  gam hỗn hợp gồm CuO, Fe 2O3, FeO, Al 2O3 nung nóng được 215 
+gam chất rắn. Dẫn toán bộ khí thoát ra vào dung dịch nước vôi trong dư thấy có  m gam kết tủa. Tính m 
+A. 15 gam                         B. 20 gam                             C. 25 gam                           D. 30 gam  
+Bài 13. Dẫn từ từ hỗn hợp khí CO và H 2 qua ống sứ đựng 20,7 gam hỗn hợp bột các oxit ZnO, Al 2O3, 
+
+--- Page 21 ---
+ 21 Fe3O4, CuO, FeO. Sau khi phản ứng xảy ra hoàn toàn, thu được 3,36 lít (đktc) hỗn hợp khí và hơi chỉ chứa 
+CO 2 và H 2O, trong ốn g sứ còn lại m gam chất rắn. Giá trị của m là  
+A. 18,3 gam                             B. 18,6 gam                                  C 16,4 gam                D 20,4 gam  
+Bài 14. Thổi rất chậm 2,24 lít (đktc) một hỗn hợp khí gồm CO và H 2 qua một ống sứ đựng h ỗn hợp Al 2O3, 
+CuO, Fe 3O4, Fe 2O3 có khối lượng là 24 gam dư đang được đun nóng. Sau khi kết thúc phản ứng khối 
+lượng chất rắn còn lại trong ống sứ là  
+A. 22,4 gam.  B. 11,2 gam.                  C. 20,8 gam.                         D. 16,8 gam.  
+Bài 15. Cho 8,1 gam bột Al trộn với 16 gam Fe2O3 thu được hỗn hợp A. Nung nóng hỗn hợp A đến hoàn 
+toàn trong điều kiện không có oxi thu được hỗn hợp B. Cho B vào dung dịch HCl dư, thể tích H 2 thoát ra 
+(đktc) là  
+A. 6,72 lít.  B. 7,84 lít.                    C. 4,48 lít.                                D. 5,6 lít.  
+Bài 16 . Một hỗn hợp gồm Fe; Fe 2O3. Nếu cho lượng khí CO dư đi qua m gam hỗn hợp trên ở điều kiện 
+nhiệt độ cao, sau khi kết thúc phản ứng người ta thu được 11,2 gam Fe. Nếu ngâm m gam hỗn hợp trên 
+trong dung dịch CuSO 4 dư, phản ứng xong thu được chất rắn có khối lượng tăng thêm 0,8 gam. Khối 
+lượng nào sau đây là khối lượng m ban đầu.  
+A. 14 gam                   B. 13,6 gam                          C. 13 gam                  D. 12 gam  
+Bài 17. Khử hoàn toàn một lượng  Fe 3O4 bằng khí CO ( dư) nung nóng thì thu được m gam Fevà 35,84 lít 
+hỗn hợp khí X ( ở đktc) có tỉ khối so với H 2 bằng 18.  
+A. 5,6 gam                           B. 11,2 gam                           C. 16,8 gam                      D. 22,4 gam  
+ 
+ 
+VIII - DẠNG 8  
+BÀI TẬP VỀ XÁC ĐỊNH CÔNG THỨC CỦA HỢP CHẤT VÔ CƠ VÀ HỮU CƠ  
+1. Định hướng phương pháp giải chung  
+a) Đối với bài toán tìm công thức của chất vô cơ:  
+- Bao gồm xác định tên kim loại, tên oxit, tên muối…  
+Nhưng phương pháp chung là tìm được nguyên tử khối của kim loại, phân tử khối của oxi, muối…hoặc 
+tìm được tỉ lệ về số nguyên tử của các nguyên tố trong hợp chất. muốn làm được như vậy chúng ta có thể 
+áp dụng phương pháp trung bình ( nguyên tử khối trung bình, phân tử khối trung bình) và phối hợp các 
+phương pháp kh ác như pp đại số, bảo toàn khối lượng, tăng giảm khối lượng. Trong đó pp đại số là cơ 
+bản. 
+-  khi tìm công thức của hợp chất vô cơ hay hữu cơ chúng ta có thể dùng đáp án để loại bỏ các trường hợp 
+khác của bài toán  
+- Một số kim loại có nhiều hóa trị nên tro ng các phản ứng khác nhau nó có thể thể hiện các hóa trị khác 
+nhau, tùy thuộc vào đề bài.  
+b) Đối với bài toán tìm CTPT hoặc CTCT của hợp chất hữu cơ thì phương pháp chung là tìm được số 
+nguyên tử cacbon, hidro, oxi hoặc tìm được phân tử khối của hợp chất đ ó. Muốn vây chúng ta cũng sử 
+dụng phương pháp trung bình ( số nguyên tử cacbon trung bình, phân tử khối trung bình), pp đại số, pp 
+tăng giảm khối lượng, pp bảo toàn khối lượng…  
+- Muốn giải được bài toán dạng này thì điều quan trọng nhất là phải viết được c ác công thức phân tử dạng 
+tổng quát của HCHC đó phù hợp với bài toán.  
+- Viết đúng và cân bằng đúng phương trình dạng tổng quát đó.  
+
+--- Page 22 ---
+ 22 2. Một số bài tập tham khảo  
+a) Xác định công thức phân tử hợp chất vô cơ  
+ 
+Bài 1. Hoà tan 2 gam sắt oxit cần dùng 2,74g axit H Cl. Công thức của oxit sắt là:  
+A. Fe2O3.                B. Fe3O4.            C. FeO.                D. Không xác định.  
+Bài 2 . Khử a gam một sắt oxit bằng cacbon oxit ở nhiệt độ cao, người ta thu được 0,84 gam sắt và 0,88 
+gam khí cacbonic.Công thức hoá học c ủa oxit sắt đã dùng phải là:  
+A. Fe 3O4                 B. FeO                 C. Fe 2O3                   D. Hỗn hợp của Fe 2O3 và Fe 3O4. 
+Bài 4 . Một oxit kim loại có công thức M xOy, trong đó M chiếm 72,41% khối lượng. Khử hoàn toàn oxit 
+này bằng khí CO thu đượ c 16,8 gam kim loại M. Hòa tan hoàn toàn lượng M bằng HNO 3 đặc nóng thu 
+được muối của M hóa trị 3 và 0,9 mol khí NO 2. Công thức oxit kim loại trên là:  
+A. Fe 2O3                       B. Fe 3O4                    C. FeO                        D. Al 2O3 
+Bài 5 . Hòa tan 6,96 gam Fe 3O4 vào dung dịch HNO 3 dư thu được 0,224 lít N xOy (đktc). Khí N xOy có 
+công thức là:  
+A. NO 2                                B. NO                             C. N 2O                     D. N 2O3 
+Bài 6. Khử hoàn toàn 4,06 gam một oxit kim loại bằng CO ở điều kiện nhiệt độ cao thành kim loại. Dẫn 
+toàn bộ khí sinh ra vào bình đựng dung dịch Ca(OH) 2 dư thấy tạo thành 7 gam kết tủa.Nếu lấy lượng 
+kim loại sinh ra hoà tan hết vào dung dịch HCl dư thì thu được 1,176 lít khí H 2 (điều kiện tiêu chuẩn). 
+công thức oxit kim loại trên là:  
+A. Fe 2O3                       B. Fe 3O4                       C. FeO                          D. Al 2O3 
+Bài 7 . Cho 2,16 gam Al tan hết trong dung dịch HNO 3 loãng thu được 0,672 lít khí A duy nhất ở đktc. Khí 
+A là 
+A. NO.       B. NO 2.                                    C. N 2O.                                   D. N 2. 
+Bài 8 . Đốt một kim loại X trong bình kín đựng khí Cl 2 thu được 32,5 gam muối clorua và nhận thấy thể 
+tích khí Cl 2 giảm 6,72 lít ở đktc. Kim loại X là  
+A. Al.                                    B. Ca.                           C. Cu.                             D. Fe.  
+Bài 9 . Khử một oxit sắt bằng CO ở nhiệt độ cao. Phản ứng xong thu được 0,84 gam Fe và 448 ml CO 2 
+(đktc). CTPT của oxit sắt là  
+A. FeO.                            B. Fe 2O3.            C. Fe 3O4.                               D. không xác định được.  
+Bai 10 . Hòa tan hoàn toàn một lượng bột Fe 3O4 vào một lượng dung dịch HNO 3 vừa đủ thu được 0,336 lít 
+khí N xOy ở đktc. Cô cạn dung dịch thu được sau phản ứng thu được 32 ,67 gam muối khan. Công thức của 
+NxOy và khối lượng Fe 3O4 trong hỗn hợp là  
+A. NO 2 và 5,22 gam                B. NO và 5,22 gam               C. NO và 10,44 gam        D .N 2O và 10,44 gam  
+Bài 11. Hoàn tan hoàn toàn 61,2 gam  một kim loại M bằng dung dịch HN O3 loãng dư thì thu được hỗn 
+hợp khí gồm 0,3 mol N 2O bà 0,9 mol NO.  
+Kim loại M là  
+A. Mg                                      B.Fe                                           C. Al                                     D.Zn  
+Bài 12. 6,94 gam hỗn hợp gồm 1 oxit s ắt và nhôm hoà tan hoàn toàn trong 100 ml dung dịch H 2SO 4 1,8M 
+tạo thành 0,03 mol H 2 và dung dịch A. Biết lượng H 2SO 4  đã lấy dư 20% so với lượng phản ứng. Công 
+thức của oxit sắt là  
+
+--- Page 23 ---
+ 23 A. FeO.                                  B. Fe 3O4.                    C. Fe 2O3.                        D. không xác định.  
+Bài 13.  Cho 11,1 gam hỗn hợp hai muối sunfít trung hoà của 2 kim loại kiềm ở hai chu kì liên tiếp tan 
+hoàn toàn trong dung dịch HCl dư thu được 2,24 lít khí SO 2 (đktc). Hai kim loại đó là  
+A. Li, Na.  B. Na, K.                 C. K, Cs.                           D. Na, Cs.  
+Bài 15.  Nung 9,66 gam hỗn hợp Al và Fe XOY đến phản ứng hoàn toàn thu được hỗn hợp A. Hoà tan A 
+trong HCl dư thu được 2,688 lít khíH 2(đktc) còn nếu hoà tan A trong NaOH dư thấy còn lại 5,04 gam ch ất 
+rắn không tan. Xác định oxit sắt  
+A . FeO                         B. FeO 2               C. Fe 2O3                  D. Fe 3O4 
+Bài 17. Hòa tan hoàn toàn 1,8 gam hỗn hợp 2 muối cacbonat của 2 kim loại kiềm thổ ở 2 chu kì liên tiếp 
+vào dung dịch HCl dư, sau ph ản ứng thu được 0,448 lít CO 2 ( ở đktc) và dung dịch A. Cô cạn dung dịch A 
+thì thu được m gam muối khan. Hai kim loại và giá trị m là:  
+A. Mg, Ca và m= 2,02 gam                                                                 B. Be, Mg và m=3,22 gam  
+C. Ca, B a và m= 2,12 gam                                                                   D. Ca, Sr và m= 1,98 gam  
+Bài 18. Hòa tan 0,1 mol một oxit sắt vào dung dịch HNO 3 đặc ( dư) thu được 2,24 lít khí NO 2 duy nhất ở 
+đktc. Mặt khác để khử hết 0,2 mol oxit trên c ần dùng 17,92 lít khí H 2 ở đktc. Công thức của oxit sắt trên 
+là: 
+A. FeO                                B. Fe 2O3                           C. Fe 3O4                               D. không xác định  
+Bài 19.  Đốt cháy m gam hỗn hợp 2 kim loại kiềm thổ ở 2 chu kì  kế tiếp bằng khí Cl 2 dư thì thấy có 4,48 lít 
+Cl2 phản ứng và tạo thành 20,6 gam muối clorua. Hai kim loại đó là;  
+A. Ca, Sr                                  B. Be, Mg                               C. Mg, Ca                         D. Sr, B a 
+Bài 20. Khử hoà n toàn 8 gam một oxit kim loại cần dùng 3,36 lít CO ( ở đktc), lượng kim loại thu được 
+sau phản ứng cho tác dụng với dung dịch HCl dư thu được 2,24 lít khí H 2 ( ở đktc).  Công thức của oxit là;  
+A. CrO                               B. FeO                               C. ZnO                                      D. Fe 2O3 
+ 
+ 
+b) Xác định CTPT của hợp chất hữu cơ  
+Bài 1.  Đốt cháy hoàn toàn m gam một amin X bằng lượng không khí vừa đủ thu được 17,6 gam CO 2, 12,6 
+gam H 2O và 69,44 lít N 2 (đktc). Giả thiết không khí c hỉ gồm N 2 và O 2 trong đó oxi chiếm 20% thể tích 
+không khí. X có công thức là  
+A. C 2H5NH 2.                            B. C 3H7NH 2.             C. CH 3NH 2.                       D. C 4H9NH 2. 
+Bài 2 . Trong một bình kín chứa hỗn hợp A gồm hiđrocacbon X và H 2 với Ni . Nung nóng bình một thời 
+gian ta thu được một khí B duy nhất. Đốt cháy B thu được 8,8 gam CO 2 và 5,4 gam H 2O. Biết V A = 3V B. 
+Công thức của X là  
+A. C 3H4.                         B. C 3H8.                  C. C 2H2.                           D. C 2H4 
+Bài 3 . Đun nóng m 1 gam ancol no, đơn chức A với H 2SO 4 đặc ở nhiệt độ thích hợp thu được m 2 gam chất 
+hữu cơ B. Tỉ khối hơi của B so với A bằng 1,4375. Hiệu suất của phản ứng đạt 100%. Công thức phân tử 
+của A là  
+A. CH 3OH. B. C 2H5OH.                 C. C 3H7OH.                        D. C 4H9OH. 
+Bài 4 . Cho 100 ml dung dịch aminoaxit A 0,2M tác dụng vừa đủ với 80 ml dung dịch NaOH 0,25M. Mặt 
+khác 100 ml dung dịch aminoaxit trên tác dụng vừa đủ với 80 ml dung dịch HCl 0,5M. Biết A có tỉ khối 
+hơi so với H 2 bằng 52. Cô ng thức phân tử của A là  
+A. (H 2N)2C2H3COOH.                                                                      B. H 2NC 2H3(COOH) 2. 
+
+--- Page 24 ---
+ 24 C. (H 2N)2C2H2(COOH) 2.                                                                     D. H 2NC 3H5(COOH) 2. 
+Bài 5 . 17,7 ga m một ankyl amin cho tác dụng với dung dịch FeCl 3 dư thu được 10,7 gam kết tủa. Công 
+thức của ankyl amin là  
+A. CH 5N. B. C 4H9NH 2.               C. C 3H9N.                     D. C 2H5NH 2. 
+Bài 6 . Đốt cháy 7,3 gam một axit no, mạch hở được 0,3 mol CO 2 và 0,25 m ol H 2O đã cho công thức phân 
+tử 
+A. CH 3COOH.  B. COOH COOH.               C. C 2H5COOH.   D. C 4H8(COOH) 2. 
+Bài 7 . Hóa hơi hoàn toàn một axit hữu co A được một thể tích hơi bằng thể tích hiđro thu được khi cũng cho 
+lượng axit như trên tác dụng hết với natri (đo  ở cùng điều kiện). Mặt khác trung hòa 9 gam A cần 100 gam 
+dung dịch NaOH 8%. A là  
+A. CH 3COOH.                                                             B. HOOC COOH.  
+C. CH 2(COOH) 2.                                                             D. C 3H7COOH.  
+Bài 8 . Đốt cháy 14,4 gam chất hữu cơ A được 28,6 gam CO 2; 4,5 gam H 2O và 5,3 gam Na 2CO 3. Biết phân 
+tử A chứa 2 nguyên tử oxi. A có công thức phân tử  
+A. C 3H5O2Na. B. C 4H7O2Na.                  C. C 4H5O2Na.                D. C 7H5O2Na. 
+Bài 9 . X là một aminoax it no chỉ chứa một nhóm NH 2 và một nhóm COOH. Cho 0,89 gam X tác dụng 
+với HCl vừa đủ tạo ra 1,255 gam muối. Công thức cấu tạo của X là  
+A. H 2NCH 2COOH.                                                  B. CH 3CH(NH 2)COOH.  
+C. CH 3CH(NH 2)CH 2COOH.                      D. C 3H7CH(NH 2)COOH.  
+Bài 10 . X là một -aminoaxit no chỉ chứa một nhóm NH 2 và một nhóm COOH. Cho 15,1 gam X tác 
+dụng với HCl dư thu được 18,75 gam muối. Công thức cấu tạo của X là  
+A. H 2NCH 2COOH.                                                                             B. CH 3CH(NH 2)CH 2COOH  
+C. C 3H7CH(NH 2)COOH.                                                 D. C 6H5CH(NH 2)COOH.  
+Bài 11 . Đốt cháy hoàn toàn 6,2 gam một amin no, đơn chức phải dùng hết 10,08 lít khí oxi (đktc). Công 
+thức của amin đó là  
+A. C 2H5NH 2.                          B. CH 3NH 2.                       C. C 4H9NH 2.                      D. C 3H7NH 2 
+Bài 12 . Đốt cháy a mol anđehit A tạo ra 2a mol CO 2. Mặt khác a mol A tác dụng với lượng dư dung dịch 
+AgNO 3/NH 3 tạo ra 4a mol Ag. A là 
+A. anđehit chưa no.  B. HCHO.                      C. CHO CHO.   D. CH 2=CHCHO  
+Bài 13 . Trung hòa hoàn toàn 1,8 gam một axit hữu cơ đơn chức bằng dung dịch NaOH vừa đủ rồi cô cạn 
+dung dịch sau phản ứng được 2,46 gam muối khan. Axit nói trên là  
+A. HCOOH.                    B. CH 3COOH.                  C. CH 2=CHCOOH.               D. C 2H5COOH.  
+Bài 14 . Đốt cháy hoàn toàn 5,8 gam một axit cacboxylic mạch thẳng thu được 0,2 mol CO 2 và 0,1mol 
+H2O. Công thức phân tử của axit đó là  
+A. C 2H4O2. B. C 3H4O4.                 C. C 4H4O4.                         D. C 6H6O6. 
+Bài 15 . Cho 3,548 lít hơi hỗn hợp X (ở 0oC, 1,25 atm) gồm 2 anken là đồng đẳng liên tiếp vào dung dịch 
+nước brom dư thấy khối lượng bình đựng dung dịch brom tăng 10,5 gam. Công thức phân tử của 2 anken 
+là 
+A. C 3H6 và C 4H8.  B. C 2H4 và C 3H6.            C. C 4H8 và C 5H10.         D. C 5H10 và C 6H12. 
+Bài 16 . Cho hiđrocacbon X có công thức phân tử C 7H8. Cho 4,6 gam X tác dụng với lượng dư AgNO 3 
+trong dung dịch NH 3 thu được 15,3 gam kết tủa. X có tối đa bao nhiêu công thức cấu tạo?  
+A. 3.                                B. 4.            C. 5.                                      D. 6.  
+
+--- Page 25 ---
+ 25 Bài 17 . Cho 15,2 gam hỗn hợp gồm glixerin và ancol đơn chức X vào Na dư thu được 4,48 lít H 2 (đktc). 
+Lượng H 2 do X sinh ra bằng 1/3 lượng  H2 do glixerin sinh ra. X có công thức là  
+A. C 3H7OH. B. C 2H5OH.               C. C 3H5OH.                         D. C 4H9OH. 
+Bài 18 . Đốt cháy hoàn toàn m gam hỗn hợp X gồm 2 rượu kế tiếp nhau trong dãy đồng đẳng thu được 
+6,72 lít CO 2 (ở đktc) và 7,65 gam H 2O. Mặt khác nếu cho m gam X tác dụng hết với Na thì thu được 2,8 
+lít H 2 (ở đktc). Công thức của 2 rượu là  
+A. C 2H5OH và C 3H7OH. B. C 3H5(OH) 3 và C 4H7(OH) 3. 
+C. C 2H4(OH) 2 và C 3H6(OH) 2. D. C 3H6(OH) 2 và C 4H8(OH) 2. 
+Bài 19.  Cho 2,32 gam một anđehit tham gia phản ứng tráng gương hoàn toàn với dung dịch AgNO 3 (trong 
+NH 3) dư thu được 17,28 gam Ag. Vậy thể tích khí H 2 (ở đktct) tối đa cần dùng để phản ứng hết với 2,9 
+gam X là  
+A. 1,12 lít.   B. 3,36 lít.                C. 2,24 lít.                       D. 6,72 lít.  
+Bài 2 0. Một este X mạch hở tạo bởi ancol no đơn chức và axit không no (có một nối đôi C=C) đơn chức. 
+Đốt cháy a mol X thu được 6,72 lít khí CO 2 (ở đktc) và 4,05 gam nước. Giá trị của a là  
+A. 0,025 mol.                       B. 0,05 mol.               C. 0,06 mol.                     D. 0,075 mol  
+Bài 21 . Xà phòng hóa 10 gam este X công thức phân tử là C 5H8O2 bằng 75 ml dung dịch NaOH 2M. Cô 
+cạn dung dịch sau phản ứng được 11,4 gam chất rắn khan. Tên gọi của X là  
+A. etylacrylat.  B. vinylpropyonat.             C. mety lmetacrylat.                D. anlylaxetat.  
+Bài 22 . Cho 100 ml dung dịch aminoaxit X nồng độ 0,3M phản ứng vừa đủ với 48 ml dung dịch NaOH 
+1,25M, sau đó cô cạn thì thu được 5,31 gam muối khan. X có công thức nào sau đây?  
+A. H 2NCH(COOH) 2. B. H 2NC2H4COOH.        C. (H 2N)2CHCOOH.  D. H 2NC2H3(COOH) 2. 
+Bài 23 . Đốt cháy hoàn toàn 2,22 gam một hợp chất hữu cơ X thu được 5,28 gam CO 2 và 2,7 gam H 2O. X 
+phản ứng được với Na, không phản ứng với dung dịch NaOH. Tìm Công thức phân tử của X và cho biết 
+tất cả các đồng phân cùng nhóm chức và khác nhóm chức của X ứng với công thức trên?  
+A. C 3H8O, có 4 đồng phân.                                           B. C 4H10O và  6 đồng phân.  
+C. C 2H4(OH) 2, không có đồng phân.                             D. C 4H10O có 7 đồng phân.  
+Bài 24. Cho 1,02 gam hỗn hợp 2 anđehit X, Y kế tiếp nhau trong dãy đồng đẳng no, đơn chức tác dụng 
+với Ag 2O  trong NH 3 dư thu đựơc 4,32 gam Ag. X, Y có CTPT là  
+A. C 2H5CHO và C 3H7CHO.     B. CH 3CHO và C 2H5CHO.     C. HCHO và CH 3CHO.  D. kết quả khác.  
+Bài 25 . Hòa tan 26,8 gam hỗn hợp 2 axit no,đơn chức vào H 2O rồi chia làm hai phần bằng nhau. Phần 1 
+cho tác dụng hoàn toàn với Ag 2O/NH 3 dư cho 21,6 gam Ag. Phần hai trung hòa hoàn toàn bởi 200 ml 
+dung dịch NaOH 1M. CTPT của 2 axit là  
+A. HCOOH và C 2H5COOH.  B. HCOOH v à CH 3COOH.  
+C. HCOOH và C 3H7COOH.  D. HCOOH và C 2H3COOH.  
+Bài 26 . Đốt cháy hoàn toàn 1,1 gam hợp chất hữu cơ X thu được 2,2 gam CO 2 và 0,9 gam H 2O. Cho 4,4 
+gam X tác dụng vừa đủ với 50 ml dung dịch NaOH 1M thì tạo ra 4,8 gam muối. X có CTPT là  
+A. C 2H5COOCH 3. B. CH 3COOC 2H5.               C. C 2H5COOH.   D. CH 3COOCH 3 
+Bài 27 . Cho 15,2 gam một rượu no A tác dụng Na dư, thấy thoát ra 4,48 lít khí (đktc), A có thể hòa tan 
+được Cu(OH) 2. Vậy công thức cấu tạo phù hợp của A là  
+A. CH 2OHCH 2CH 2OH.                              B. CH 2OHCHOHCH 3. 
+C. CH 2OHCHOHCH 2OH.                              D. CH 2OHCH 2OH. 
+Bài 28 . Để trung hòa 1 lít dung dịch axit hữu cơ X cần 0,5lít dung dịch NaOH 1M, cô cạn thu được 47 
+
+--- Page 26 ---
+ 26 gam. muối khan. Mặt khác khi cho 1 lít dung dịch axit trên tác dụn g với nước Br 2 làm mất màu hoàn toàn 
+80g Br 2. Công thức cấu tạo phù hợp của X là  
+A. CH 2=CHCOOH.                                                           B.CH 2=CHCH 2COOH  
+C.CH 3CH=CHCOOH                                                             D.CH 3CH2COOH.  
+Bài 29 . X và Y là 2 đồng phân, phân tử gồm C, H, O mỗi chất chỉ chứa một nhóm chức và đều có phản 
+ứng với xút. Lấy 12,9 gam hỗn hợp M của X và Y cho tác dụng vừa đủ với 75 ml dd NaOH 2 M. Công 
+thức PT của X và Y là;  
+A. C 3H6O2                                       B. C 4H6O2                               C. C 5H10O2                   D. C 6H12O2 
+Bài 30 . Cho 8 gam hỗn hợp 2 anđêhit mạch hở kế tiếp nhau trong dãy đồng đẳng của anđehit fomic tác 
+dụng với lượng dư dung dịch AgNO 3 trong dung dịch NH 3 thu đư ợc 32,4 gam Ag. CTPT của 2 anđêhit đó 
+là: 
+ A. CH 3CHO và C 2H5CHO                                        B. HCHO và CH 3CHO  
+C. C 2H5CHO và C 3H7CHO                                        D. A, B, C đều sai  
+Bài 31 . Đốt cháy 0,3 mol hỗn hợp 2 axit hữu cơ thu được  11,2 lít CO 2 ( đktc), nếu trung hòa 0,3 mol hỗn 
+hợp 2 axit trên cần dùng 500 ml NaOH 1 M. Hai axit đó có cấu tạo là:  
+A. CH 3COOH và C 2H5COOH                                   B. HCOOH và CH 3COOH  
+C. HOOC -COOH và HCOOH                                   D. A,  B, C đều sai  
+Bài 32 . Thuỷ phân hoàn toàn 444 gam một lipit thu được 46 gam glixerol (glixerin) và hai loại axit  
+béo. Hai loại axit béo đó là (cho H = 1, C = 12, O = 16)  
+A. C15H31COOH và C 17H35COOH.     B. C17H33COOH và C 15H31COOH.  
+C. C17H31COOH và C 17H33COOH.    D. C17H33COOH và C 17H35COOH  
+Bài 33 . Khi đốt cháy hoàn toàn 4,4 gam chất hữu cơ X đơn chức thu được sản phẩm cháy chỉ gồm  
+4,48 lít CO 2 (ở đktc) và 3,6 gam nước. Nếu cho 4,4 gam hợp chất X tác dụng với dung dịch NaOH  
+vừa đủ đến khi phản ứng hoàn toàn,  thu được 4,8 gam muối của axit hữu cơ Y và chất hữu cơ Z. Tên  
+của X là  
+A. etyl propionat.  B. metyl propionat.   C. isopropyl axetat.   D. etyl axetat  
+Bài 34 . Hợp chất hữu cơ no, đa chức X có công thức phân tử C 7H12O4. Cho 0,1 mol X tác dụng vừa  
+đủ với 100 g am dung dịch NaOH 8% thu được chất hữu cơ Y và 17,8 gam hỗn hợp muối. Công thức  
+cấu tạo thu gọn của X là  
+A. CH 3OOC –(CH 2)2–COOC 2H5.                   B. CH 3COO –(CH 2)2–COOC 2H5. 
+C. CH 3COO –(CH 2)2–OOCC 2H5.                    D. CH 3OOC –CH 2–COO –C3H7 
+Bài 35 . X là một este no đơn chức, có tỉ khối hơi đối với CH 4 là 5,5. Nếu đem đun 2,2 gam este X  
+với dung dịch NaOH (dư), thu được 2,05 gam muối. Công thức cấu tạo thu gọn của X là:  
+A. HCOOCH 2CH 2CH 3. B. C2H5COOCH 3.            C. CH 3COOC 2H5.   D. HCOOCH(CH 3)2. 
+Bài 36 . Cho 1,76 gam một este no, đơn chức phản ứng vừa hết với 40 ml dung dịch NaOH 0,5M thu được 
+chất X và chất Y. Đốt cháy hoàn toàn 1,2 gam chất Y được 2,64 gam CO 2 và 1,44 gam H 2O. Công thức 
+cấu tạo của este là  
+A. HCOOCH 2CH 2CH 3.                B. CH 3COOC 2H5.        C.C 2H5COOCH 3.            D.CH 3COOCH(CH 3)2. 
+Bài 37 . Cho 10,4 gam este X (công thức phân tử: C 4H8O3) tác dụng vừa đủ với 100 ml dung dịch NaOH 1M 
+được 9,8 gam muối khan. Công thức cấu tạo của X là  
+A. HCOOCH 2CH 2CHO.   B. CH 3COOCH 2CH 2OH.   C. HOCH 2COOC 2H5.   D. CH 3CH(OH)COOCH 3. 
+Bài 38 . Đốt cháy hoàn toàn 4,44 gam chất hữu cơ X đơn chức (chứa C, H, O). Cho toàn bộ sản phẩm cháy 
+
+--- Page 27 ---
+ 27 hấp thụ hoàn toàn vào bình đựng dung dịch Ca(OH) 2 dư thấy khối lượng bình tăng 11,16 gam đồng thời 
+thu được 18 gam kết tủa. Lấy m 1 gam X cho tác dụng với dung dịch NaOH (vừa đủ), cô cạn dung dịch sau 
+phản ứng được m 2 gam chất  rắn khan. Biết m 2 < m 1. Công thức cấu tạo của X là  
+A. HCOOC 2H5.                  B. CH 3COOCH 3.              C. C 2H5COOH.               D. CH 2 = CHCOOCH 3. 
+Bài 39 . Một este đơn chức X có phân tử khối là 88 đvC. Cho 17,6 gam X tác dụng với 300 ml dung dịch 
+NaOH 1M. Khi phản ứng xảy ra hoàn toàn, cô cạn dung dịch sau phản ứng thu được 23,2 gam chất rắn 
+khan. Công thức cấu tạo của X là  
+A. HCOOCH 2CH 2CH 3.        B. HCOO  CH(CH 3)2.           C. CH 3CH 2COOCH 3.    D . CH 3COOCH 2CH 3. 
+Bài 40 . Hỗn hợp M gồm một axit  X đơn chức, một ancol Y đơn chức và một este tạo ra từ X và Y. Khi 
+cho 25,2 gam hỗn hợp M tác dụng vừa đủ với 100 ml dung dịch NaOH 2M được 13,6 gam muối khan. 
+Nếu đ un nóng Y với H 2SO 4 đặc thì thu được chất hữu cơ Y 1 có tỉ khối hơi so với Y bằng 1,7 (coi hiệu suất 
+đạt 100%). Công thức cấu tạo của este là:  
+A. HCOOCH 2CH 2CH 3.                                                          B. CH 3COO CH(CH 3)2. 
+C. HCOOCH(CH 3)2.                                                               D. HCOOC 2H4CH 3 hoặc HCOOCH(CH 3)2. 
+IX- DẠNG 9  
+BÀI TẬP VỀ HIỆU SUẤT PHẢN ỨNG  
+1. Phương pháp giải chung  
+- Phương pháp giải chủ yếu là phương pháp đại số, viết PTHH và tính theo PTHH đó  
+- Cần chú ý mộ t số vấn đề sau:  
++ Hiệu suất phản ứng chỉ áp dụng cho các phản ứng xảy ra chưa hoàn toàn tức là sau phản ứng cả 2 chất 
+tham gia đều còn dư: Dấu hiệu để nhận ra pư xảy ra không hoàn toàn là bài toán không có câu “ phản ứng 
+xảy ra hoàn toàn’’, hoặc có câu “ phản ứng một thời gian”..  
++  Hiệu suất phản ứng có thể được tính theo lượng chất ( số mol, khối lượng, thể tích) tham gia hoặc lượng 
+chất sản phẩm. Công thức chung như sau:  
+ 
++  Nên nhớ rằng 0 < H< 1. Nếu đề bài cho biết lượng chấ t tham gia phản ứng thì đó là lượng lý thuyết, nếu 
+đề bài cho biết lượng chất sản phẩm thì đó là lượng thực tế.  
++ Nếu đề bài cho biết lượng chất của 2 chất tham gia phản ứng thì hiệu suất được tính theo chất nào hết 
+trước khi ta giả sử hiệu suất phản ứng l à 100%  
+ 
+2. Một số bài tập tham khảo  
+Bài 1 . Trộn 13,5 g bột Al với 34,8g bột Fe 3O4 rồi tiến hành phản ứng nhiệt nhôm. Giả sử lúc đó chỉ xảy ra 
+phản ứng khử  Fe 3O4 thành Fe. Hoà tan hoàn toàn hỗn hợp chất rắn sau phản ứng bằng dung dịch H 2SO 4 
+loãng dư thì th u được 14,112 lít H2 (ở đktc). Tính hiệu suất phản ứng nhiệt nhôm.  
+A. 70%    B.  75%    C.  80%            D.60%  
+Bài 2 . Khi oxi hóa 11,2 lít NH 3 (ở đktc) để điều chế HNO 3 với hiệu suất của cả quá trình là 80% thì thu 
+được khối lượng dung dịch HNO 3 6,3% là  
+A. 300 gam.  B. 500 gam.                C. 250 gam.                 D. 400 gam.  
+Bài 3 . Da nhân tạo (PVC) được điều chế từ khí thiên nhiên theo sơ đồ:  H=  Lượng thực tế  
+Lượng lý thuyết  .100% 
+
+--- Page 28 ---
+ 28                           CH 4  C2H2  CH 2=CHCl  [CH 2CHCl]n. 
+Nếu hiệu suất của toàn bộ quá trình điều ch ế là 20%, muốn điều chế được 1 tấn PVC thì thể tích khí 
+thiên nhiên (chứa 80% metan) ở điều kiện tiêu chuẩn cần dùng là  
+A. 4375 m3.                              B. 4450 m3.           C. 4480 m3.              D. 6875 m3 
+Bài 4 . Nung 8,1 gam Al với 23,2 gam F e3O4 ở nhiệt độ cao ( giả sử chỉ có phản ứng khử oxit sắt thành sắt) 
+thu được hỗn hợp X. Cho hỗn hợp X vào dung dịch H2SO 4 loãng dư, đun nóng thu được 8,064 lít H 2 
+(đktc). Hãy cho biết hiệu suất của phản ứng nhiệt nhôm ?  
+A. 75%     B. 80%   C.  85%      D. 90 % 
+Bài  5 . Khối lượng este metylmetacrylat thu được là bao nhiêu khi đun nóng 215g axit metacrylic với 
+100g ancol metylic, giả thiết hiệu suất phản ứng este hoá đạt 60%.  
+A. 125g                              B. 175g                               C. 150g                                  D. 200g  
+Bài 6 .  Điện phân Al 2O3 nóng chảy trong thời gian 2 giờ 40 phút 50 giây, cường độ dòng điện   5 A , thu 
+được 3,6 gam nhôm kim loại ở catot. Hiệu suất của quá trình điện phân này là:  
+A.  80%                                  B.  90%                                  C. 100%                                 D.  70%  
+Bài 7 .Tính khối lượng glucozo cần dùng để lên men thu được 200 lít C 2H5OH 30o ( D= 0,8 gam/ml), biết 
+hiệu suất lên men đạt 96%?  
+A. 90,15 kg                                 B. 45,07 kg                            C. 48,91 kg                           D. 97,83 kg  
+Bài 8 . Cho hỗn hợp A gồm N 2 và H 2 ( tỉ lệ mol 1:3), tiến hành phản ứng tổng hợp NH 3, sau phản ứng thu 
+được hỗn hợp B có tỉ khối d A/B= 0,7. Hiệu suất phản ứng là:  
+A. 55%                                                B. 60%                                   C. 80%                        D. 75%  
+Bài 9 . Từ 1 tấn muối ăn có chứa 10,5% tạp chất , người ta điều chế được 1250lit dung dịch HCl 37% ( d 
+=1,19 g/ml) bằng cách cho lượng muối ăn trên tác dụng với axit sunfuric đậm đặc ở nhiệt độ cao . Tính 
+hiệu suất của quá trình điều chế trên ? 
+A. 95,88%                            B. 98,55%                                C. 98, 58%                         D. 98,85%. 
+Bài 10. Đun nóng hỗn hợp X gồm 0,25 mol C 2H3COOH và 0,15 mol C 3H6(OH) 2 có mặt của H 2SO 4 đặc 
+làm xúc tác, sau một thời gian thu được 19,55 gam một este duy nhất. Hiệu suất của phản ứng este hoá là  
+A. 25%.                          B. 70%.                       C. 80%.                            D. 85%.  
+Bài 11. Khối lượng glucozơ cần để điều chế 0,1 lít rượu êtylic nguyên chất (khối lượng riêng D = 0,8 
+g/ml) với hiệu suất 80% là  
+A. 180 gam.  B. 195,65 gam.                         C. 186,55 gam.                 D. 200 gam.  
+Bài 12. Hòa tan hoàn toàn 16 gam rượu etylic vào nước được 250 ml dung dịch rượu, cho biết khối lượng 
+riêng của rượu etylic nguyên chất là 0,8 g/ml. Dung dịch có độ rượu là:  
+A. 5,12 0                              6,40                     C. 12 0                                   D. 80 
+Bài 13. Một loại gạo chứa 75% tinh bột. Lấy 78,28 kg gạo này đi nấu rượu etylic 40 0, hiệu suất pư của cả 
+quá trình là 60%. Khối lượng riêng của rượu etylic là 0,8 g/ml. Thể tích rượu 40 0 thu được là:  
+A. 60(lít)                      B. 52,4(lít)                 C. 62,5(lít)                      D. 45(lít)  
+Bài 14.  Từ 3 tấn quặng pirit (chứa 58% FeS 2 về khối lượng, phần còn lại là các tạp chất trơ) điều chế được 
+bao nhiêu tấn dung dịch H 2SO 4 98%, hiệu suất chung của quá trình điều chế là 7 0%? 
+A. 2,03 tấn                         B.  2,50 tấn                             C. 2,46 tấn                      D. 2,90 tấn  
+Bài 15. Thực hiện phản ứng nhiệt nhôm giữa 6,48 gam Al với 17,6 gam Fe 2O3. Chỉ có phản ứng nhôm 
+khử oxit kim loại tạo kim loại. Đem h òa tan chất rắn sau phản ứng nhiệt nhôm bằng dung dịch xút dư cho 
+
+--- Page 29 ---
+ 29 đến kết thúc phản ứng, thu được 1,344 lít H 2 (đktc). Hiệu suất phản ứng nhiệt nhôm là:  
+A. 100%                           B. 90,9%                                      C. 83,3%                          D.  70%  
+Bài 16. Thủy phân m gam tinh bột, sản phẩm thu được đem lên men để sản xuất ancoletylic, toàn bộ khí 
+CO 2 sinh ra cho qua dung dịch Ca(OH) 2 dư, thu được 750 gam kết tủa. Nếu hiệu suất mỗi quá trình là 
+80% thì giá trị m là  
+A. 949,2 gam.  B. 94 5,0 gam.                   C. 950,5 gam.                     D. 1000 gam.  
+Bài 17 . Nung 6,58 gam Cu(NO 3)2 trong bình kín không chứa không khí, sau một thời gian thu được m 
+gam chất rắn và hỗn hợp khí X. Hấp thụ hoàn toàn X vào nước để được 300 ml dung dịch Y có pH bằng 1. 
+Hiệu suất của phản ứng nhiệt phân là:  
+A. 42,86%            B.40,56%            C. 58,86%                D. 62,68%  
+Bài 18 . Nung quặng đôlômit ( CaCO 3.MgCO 3) nặng 184 gam một thời gian, thấy còn lại 113,6 gam chất 
+rắn. Hiệu suất của phản ứng nhiệt  phân là:  
+A. 60%                                          B. 75%                                 C. 80%                          D. 85%  
+ 
+ 
+ 
+ĐÁP ÁN  
+ 
+Dạng 1 : Kim loại , oxit kim loại, bazo, muối … tác dụng với axit không có tính oxi hóa  
+Câu Đáp án  Câu Đáp á n Câu Đáp án  Câu Đáp án  
+1 A 11 C 21 A 31 C 
+2 B 12 A 22 B 32 A 
+3 B 13 A 23 B 33 B 
+4 C 14 A 24 B 34 C 
+5 B 15 C 25 D   
+6 B 16 B 26 B   
+7 C 17 D 27 A   
+8 D 18 A 28 B   
+9 C 19 B 29 A   
+10 A 20 A 30 D   
+ 
+ 
+ 
+ 
+ 
+Dạng 2 : Kim loại, oxit kim loại, muối… tác dụng với axit có tính oxi hóa mạnh  
+Câu Đáp án  Câu Đáp án  Câu Đáp án  Câu Đáp án  
+1 A 11 C 21 B 31 B 
+2 B 12 A 22 B 32 A 
+3 A 13 A 23 D 33 A 
+4 A 14 B 24 A 34 D 
+5 C 15 A 25 A 35 A 
+
+--- Page 30 ---
+ 30 6 A 16 B 26 A 36 D 
+7 B 17 D 27 D 37 D 
+8 B 18 B 28 B 38 A 
+9 B 19 A 29 B 39 C 
+10 B 20 B 30 A 40 D. 41 .C  
+ 
+Dạng 3 : Kim loại tác dụng với dung dịch muối  
+Câu Đáp án  Câu Đáp án  
+1 D 11 A 
+2 B 12 C 
+3 D 13 A 
+4 C 14 A 
+5 C 15 B 
+6 C 16 A 
+7  17 B 
+8 C 18 A 
+9 B 19 C 
+10 D 20 B 
+ 
+Dạng 4: Bài tập về các hợp chất lưỡng tính  
+Câu Đáp án Câu Đáp án  Câu Đáp án  
+1 B 11 B 21 C 
+2 A 12 B 22 C 
+3 B 13 A   
+4 D 14 A   
+5 A 15 A   
+6 D 16 D   
+7 B 17 B   
+8 C 18 D   
+9 C 19 A   
+10 D 20 C   
+ 
+Dạng 5: Bài tập điện phân  
+Câu Đáp án  Câu Đáp án  
+1 A 11 B 
+2 B 12 B 
+3 C 13 B 
+4 D   
+5 A   
+6 B   
+7 B   
+
+--- Page 31 ---
+ 31 8 B   
+9 C   
+10 C   
+Dạng 6:  Bài tập về phản ứng của CO 2, SO 2 
+với dung dịch kiềm  
+Câu Đáp án  Câu Đáp án  
+1 B 11 A 
+2 D 12 B 
+3 B   
+4 A   
+5 C   
+6 B   
+7 B   
+8 D   
+9 B   
+10 A   
+ 
+Dạng 7:  Phản ứng của C, H 2, CO, Al với 
+các oxit kim loại  
+Câu Đáp án Câu Đáp án  
+1 B 11 B 
+2 B 12 A 
+3 A 13 A 
+4 C 14 A 
+5 A 15 B 
+6 D 16 B 
+7 C 17 D 
+8 A   
+9 B   
+10 D   
+ 
+Dạng 8:  Xác định công thức phân tử  
+a) Hợp chất vô cơ  
+Câu Đáp án  Câu Đáp án  
+1 A 11 C 
+2 A 12 B 
+3 B 13 D 
+4 B 14 A 
+5 B 15 C 
+6 C 16 C 
+7 D 17 D 
+
+--- Page 32 ---
+ 32 8 C   
+9 C   
+10 A   
+b) Hợp chất hữu cơ  
+Câu Đáp án  Câu Đáp án  Câu Đáp án  Câu Đáp án  
+1 A 11 B 21  31 C 
+2 C 12 B 22 D 32 D 
+3 A 13 B 23 D 33 B 
+4 A 14 C 24 B 34 C 
+5 C 15 A 25 C 35 C 
+6 D 16 A 26 A 36 A 
+7 B 17 A 27 B 37 C 
+8 D 18 C 28 A 38 A 
+9 B 19 C 29 B 39 C 
+10 D 20 D 30 A 40 D 
+ 
+Dạng 9 : Bài tập về hiệu suất  
+Câu Đáp án  Câu Đáp án  
+1 C 11 B 
+2 D 12 D 
+3 C 13 C 
+4 D 14 A 
+5 C 15 C 
+6 A 16 A 
+7 D 17 A 
+8 B 18 C 
+9 B   
+10 D   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chúc các em thành công trên con đường mình đã chọn!  
+ 
+- THE END - 
