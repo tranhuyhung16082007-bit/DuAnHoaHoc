@@ -20,13 +20,17 @@ export async function GET(request: Request) {
       .maybeSingle(); // Dùng maybeSingle để không văng lỗi nếu không tìm thấy
       
     if (taskData) {
+      const isPublished = taskData.status === 'published';
+      
       // Map về định dạng Exercise
       const mappedExercise = {
         id: `ai-${taskData.short_id}`,
         type: 'TL',
-        tags: ['Từ Kho Hỏi Bài AI', taskData.status === 'pending' ? 'Đang giải' : 'Đã có lời giải'],
-        de_bai: taskData.extracted_prompt || '*Hệ thống đang trích xuất đề bài từ ảnh của bạn...*',
-        loi_giai: taskData.ai_solution_markdown || '*AI đang suy nghĩ và giải bài. Vui lòng quay lại kiểm tra sau 1-2 phút nhé!*'
+        tags: ['Hỏi Bài AI', isPublished ? 'Đã duyệt' : 'Đang chờ Admin duyệt'],
+        de_bai: taskData.extracted_prompt || '*Hệ thống đang xử lý ảnh của bạn...*',
+        loi_giai: isPublished 
+          ? (taskData.ai_solution_markdown || 'Không có lời giải')
+          : '*Bài tập này đang được AI giải và chờ Thầy/Cô kiểm duyệt. Bạn vui lòng quay lại tra cứu ID này sau nhé!*'
       };
       return NextResponse.json([mappedExercise]);
     }
