@@ -12,6 +12,9 @@ const groupColors = {
   "Post-transition metal": "bg-indigo-100 text-indigo-900 border-indigo-300 hover:bg-indigo-200 dark:bg-indigo-900/30 dark:text-indigo-200 dark:border-indigo-800/60 dark:hover:bg-indigo-800/50",
   "Transition metal": "bg-blue-100 text-blue-900 border-blue-300 hover:bg-blue-200 dark:bg-blue-900/30 dark:text-blue-200 dark:border-blue-800/60 dark:hover:bg-blue-800/50",
   "Halogen": "bg-yellow-100 text-yellow-900 border-yellow-300 hover:bg-yellow-200 dark:bg-yellow-900/30 dark:text-yellow-200 dark:border-yellow-800/60 dark:hover:bg-yellow-800/50",
+  "Lanthanide": "bg-purple-100 text-purple-900 border-purple-300 hover:bg-purple-200 dark:bg-purple-900/30 dark:text-purple-200 dark:border-purple-800/60 dark:hover:bg-purple-800/50",
+  "Actinide": "bg-fuchsia-100 text-fuchsia-900 border-fuchsia-300 hover:bg-fuchsia-200 dark:bg-fuchsia-900/30 dark:text-fuchsia-200 dark:border-fuchsia-800/60 dark:hover:bg-fuchsia-800/50",
+  "Unknown": "bg-gray-100 text-gray-900 border-gray-300 hover:bg-gray-200 dark:bg-gray-900/30 dark:text-gray-200 dark:border-gray-800/60 dark:hover:bg-gray-800/50",
 };
 
 export function PeriodicTable() {
