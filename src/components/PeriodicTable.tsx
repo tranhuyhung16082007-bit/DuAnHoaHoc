@@ -38,7 +38,7 @@ export function PeriodicTable() {
                 key={el.atomicNumber}
                 onMouseEnter={() => setHoveredEl(el)}
                 onMouseLeave={() => setHoveredEl(null)}
-                className={`cursor-pointer border flex flex-col items-center justify-center p-1 rounded-sm transition-all duration-150 aspect-square shadow-sm hover:shadow-md ${groupColors[el.groupBlock]} ${hoveredEl?.atomicNumber === el.atomicNumber ? 'ring-2 ring-blue-500 scale-110 z-20 shadow-xl' : 'scale-100 z-10'}`}
+                className={`cursor-pointer border flex flex-col items-center justify-center p-1 rounded-sm transition-all duration-75 aspect-square shadow-sm hover:shadow-md ${groupColors[el.groupBlock]} ${hoveredEl?.atomicNumber === el.atomicNumber ? 'ring-2 ring-blue-500 scale-110 z-20 shadow-xl' : 'scale-100 z-10'}`}
                 style={{
                   gridRow: el.row,
                   gridColumn: el.column,
